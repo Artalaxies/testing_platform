@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-aZW(){var x=null,w=new B.rW(A.a([],y.t),F.q5(x,x),x)
+aZV(){var x=null,w=new B.rW(A.a([],y.t),F.q5(x,x),x)
 w.kW(x,x,x,x)
 return w},
 rW:function rW(d,e,f){var _=this
@@ -21,17 +21,17 @@ aid:function aid(d){this.a=d},
 aic:function aic(d){this.a=d},
 aie:function aie(d){this.a=d},
 aib:function aib(d){this.a=d},
-aCZ(d){var x=0,w=A.X(y.b),v
-var $async$aCZ=A.T(function(e,f){if(e===1)return A.U(f,w)
+aCY(d){var x=0,w=A.X(y.b),v
+var $async$aCY=A.T(function(e,f){if(e===1)return A.U(f,w)
 while(true)switch(x){case 0:$.a6p().aS(C.x,"readNFTData executed",null,null)
 x=3
-return A.a4(d.aM(0,new B.aD_(),y.b),$async$aCZ)
+return A.a4(d.aM(0,new B.aCZ(),y.b),$async$aCY)
 case 3:v=f
 x=1
 break
 case 1:return A.V(v,w)}})
-return A.W($async$aCZ,w)},
-aD_:function aD_(){}},A,E,C,D,G,H,J,I,K,F
+return A.W($async$aCY,w)},
+aCZ:function aCZ(){}},A,E,C,D,G,H,J,I,K,F
 a.setFunctionNamesIfNecessary([B])
 B=a.updateHolder(c[6],B)
 A=c[0]
@@ -70,18 +70,18 @@ w=A.iM(A.iK(A.a([new A.b6(D.Ol,w,r),A.b7(A.fi("\nNFT Derivative MarketPlace \nDi
 u=C.d.cf($.jz.a,300)
 t=this.r
 s=A.a9(t).h("aj<1,hO<@>>")
-u=G.aMS(0.8,A.ao(new A.aj(t,new B.aid(this),s),!0,s.h("av.E")),u,40,40)
+u=G.aMR(0.8,A.ao(new A.aj(t,new B.aid(this),s),!0,s.h("av.E")),u,40,40)
 A.dR(e,C.aq,q).toString
 return new H.lK(r,A.a([w,new A.FF(D.Oi,u,r),A.iM(A.iK(A.a([A.nd(A.b7(A.fi("Show More",r,"show_more",A.a([],x),r),r,r,r,r,r,r),r,r,new B.aie(this),r,r,r)],v),!0,!0,!0))],v),r)}}
 var z=a.updateTypes(["ng(aa,cT<@>)"])
 B.ai8.prototype={
-$1(d){return E.aPU(d)},
+$1(d){return E.aPT(d)},
 $S:135}
 B.ai9.prototype={
-$1(d){return J.fd(J.aDJ(d),new B.ai7(),y.i)},
+$1(d){return J.fd(J.aDI(d),new B.ai7(),y.i)},
 $S:452}
 B.ai7.prototype={
-$1(d){return B.aCZ(d)},
+$1(d){return B.aCY(d)},
 $S:453}
 B.aia.prototype={
 $1(d){var x=this.a
@@ -106,7 +106,7 @@ $S:162}
 B.aic.prototype={
 $2(d,e){var x=null
 A.b(this.a.c,"windowLogger").aS(C.cB,C.b.a0("get json: ",J.bE(e.gjw())),x,x)
-return new E.ng(K.aL_(J.a6J(J.bE(J.ac(e.gjw(),"image")),"ipfs://","https://cloudflare-ipfs.com/ipfs/"),x,x),J.ac(e.gjw(),"name"),J.ac(e.gjw(),"description"),x)},
+return new E.ng(K.aKZ(J.a6J(J.bE(J.ac(e.gjw(),"image")),"ipfs://","https://cloudflare-ipfs.com/ipfs/"),x,x),J.ac(e.gjw(),"name"),J.ac(e.gjw(),"description"),x)},
 $S:z+0}
 B.aie.prototype={
 $0(){var x=this.a
@@ -118,12 +118,12 @@ x.pq(-w,-(w+1e5))
 A.b(x.c,"windowLogger").aS(C.x,"get blocks:"+C.e.j(-(x.x+1e5))+" to "+C.e.j(-x.x),null,null)
 x.x+=1e5},
 $S:0}
-B.aD_.prototype={
+B.aCZ.prototype={
 $1(d){var x=0,w=A.X(y.b),v,u
 var $async$$1=A.T(function(e,f){if(e===1)return A.U(f,w)
 while(true)switch(x){case 0:u=C.a5
 x=3
-return A.a4(A.aHi(A.iY(J.a6J(J.bE(d),"ipfs://","https://cloudflare-ipfs.com/ipfs/"),0,null)),$async$$1)
+return A.a4(A.aHh(A.iY(J.a6J(J.bE(d),"ipfs://","https://cloudflare-ipfs.com/ipfs/"),0,null)),$async$$1)
 case 3:v=u.cV(0,f)
 x=1
 break
@@ -131,11 +131,11 @@ case 1:return A.V(v,w)}})
 return A.W($async$$1,w)},
 $S:455};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.rW,F.i2)
-w(A.c1,[B.ai8,B.ai9,B.ai7,B.aia,B.aig,B.aid,B.aD_])
+w(A.c1,[B.ai8,B.ai9,B.ai7,B.aia,B.aig,B.aid,B.aCZ])
 w(A.h2,[B.ai6,B.aif,B.aie,B.aib])
 x(B.aic,A.hF)})()
 A.dY(b.typeUniverse,JSON.parse('{"rW":{"a0":[],"i":[]}}'))
 var y=(function rtii(){var x=A.y
 return{i:x("K<@>"),j:x("v<K<@>>"),t:x("j<K<@>>"),h:x("j<z>"),u:x("j<i>"),m:x("ar<e,K<@>>"),F:x("aL"),q:x("fJ"),b:x("@"),v:x("~")}})();(function constants(){D.Oi=new A.aG(40,40,40,40)
 D.Ol=new A.aG(50,50,50,50)})()}
-$__dart_deferred_initializers__["9E8GS5dAWUP0qvDFBzL+m8JrKWY="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["7EfW0bXoC9Aqe8la/v9oH9R/aVE="] = $__dart_deferred_initializers__.current
