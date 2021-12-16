@@ -1,101 +1,116 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A={
-b7N(d,e){var w,v=new B.ac($.a8,x.f),u=new B.aS(v,x.D),t=$.aT8().$0()
-C.iY.Hu(t,"GET",d,!0)
-t.responseType="arraybuffer"
-w=x.g
-B.cc(t,"progress",new A.aDa(e),!1,w)
-B.cc(t,"error",new A.aDb(u,d),!1,w)
-B.cc(t,"load",new A.aDc(t,u,d),!1,w)
-t.send()
-return v},
-aC5:function aC5(){},
-aDa:function aDa(d){this.a=d},
-aDb:function aDb(d,e){this.a=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B={ng:function ng(d,e,f,g){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.a=g},aj7:function aj7(){},
+aGI(){var x=0,w=A.X(y.k),v
+var $async$aGI=A.T(function(d,e){if(d===1)return A.U(e,w)
+while(true)switch(x){case 0:v=$.qu().V5("assets/ArtalaxiesMarket.json").aM(0,new B.aAz(),y.w).aM(0,new B.aAA(),y.k)
+x=1
+break
+case 1:return A.V(v,w)}})
+return A.W($async$aGI,w)},
+a60(d,e){var x=0,w=A.X(y.h),v
+var $async$a60=A.T(function(f,g){if(f===1)return A.U(g,w)
+while(true)switch(x){case 0:$.a6p().aS(C.x,"getLatestTransaction executed",null,null)
+x=3
+return A.a4($.aIf().aM(0,new B.aBQ(e,d),y.h),$async$a60)
+case 3:v=g
+x=1
+break
+case 1:return A.V(v,w)}})
+return A.W($async$a60,w)},
+aPU(d){$.a6p().aS(C.x,"getNFTData executed",null,null)
+return $.aIf().aM(0,new B.aBT(d),y.b)},
+aAz:function aAz(){},
+aAA:function aAA(){},
+aBQ:function aBQ(d,e){this.a=d
 this.b=e},
-aDc:function aDc(d,e,f){this.a=d
-this.b=e
-this.c=f},
-b89(d,e){var w=B.aP()
-if(w)return A.b7N(d.j(0),e)
-else return A.b3Y(new A.aDj(d,e),x.s)},
-b3Y(d,e){var w=new B.ac($.a8,e.h("ac<0>")),v=d.$1(new A.aAK(new B.Jk(w,e.h("Jk<0>")),e))
-if(v!=null)throw B.c(B.du(v))
-return w},
-aDj:function aDj(d,e){this.a=d
-this.b=e},
-aAK:function aAK(d,e){this.a=d
-this.b=e},
-t4:function t4(d,e){this.a=d
-this.b=e},
-ajl:function ajl(d){this.a=d},
-lv:function lv(d,e){this.a=d
-this.b=e},
-a0p:function a0p(){}},B,J,C
-a.setFunctionNamesIfNecessary([A])
-A=a.updateHolder(c[21],A)
-B=c[0]
-J=c[1]
+aBT:function aBT(d){this.a=d},
+aBR:function aBR(d){this.a=d},
+aBS:function aBS(){},
+aZE(d){var x=new ethers.providers.JsonRpcProvider(d)
+return new B.R9(d,x)},
+R9:function R9(d,e){this.c=d
+this.a=e}},A,C,D,J
+a.setFunctionNamesIfNecessary([B])
+B=a.updateHolder(c[17],B)
+A=c[0]
 C=c[2]
-A.t4.prototype={
-qw(d){return new B.bs(this,x.B)},
-uC(d,e,f){var w=null,v=B.aMU(w,w,w,x.h)
-return B.aFh(new B.mi(v,B.r(v).h("mi<1>")),this.a5X(e,f,v),e.a,w,e.b)},
-a5X(d,e,f){return A.b89(B.asa().aa(d.a),new A.ajl(f))},
-k(d,e){if(e==null)return!1
-if(J.a2(e)!==B.H(this))return!1
-return e instanceof A.t4&&e.a===this.a&&e.b===this.b},
-gv(d){return B.a1(this.a,this.b,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a,C.a)},
-j(d){return'NetworkImage("'+this.a+'", scale: '+this.b+")"}}
-A.lv.prototype={}
-A.a0p.prototype={}
+D=c[36]
+J=c[1]
+B.ng.prototype={
+P(d,e){var x=null,w=A.b7(this.d,x,x,x,A.a1(e).L.b,C.T,x),v=this.e
+if(v==null)v=""
+return A.LT(A.nd(A.hj(A.dI(A.a([this.c,w,A.b7(v,x,x,x,A.a1(e).L.y,x,x)],y.u),C.a6,C.I,C.H),800,300),x,x,new B.aj7(),x,x,x),D.iy,x,D.DC)}}
+B.R9.prototype={
+j(d){return"JsonRpcProvider: "+this.c}}
 var z=a.updateTypes([])
-A.aC5.prototype={
-$0(){return new XMLHttpRequest()},
-$S:417}
-A.aDa.prototype={
-$1(d){var w,v=d.loaded
-v.toString
-w=d.total
-w.toString
-this.a.$2(v,w)},
-$S:54}
-A.aDb.prototype={
-$1(d){this.a.iG(new B.w3(y.a+this.b+"\nTrying to load an image from another domain? Find answers at:\nhttps://flutter.dev/docs/development/platform-integration/web-images"))},
-$S:54}
-A.aDc.prototype={
-$1(d){var w,v,u,t,s,r,q,p=this,o=p.a,n=o.status
-n.toString
-s=n>=200&&n<300
-r=n>307&&n<400
-if(!(s||n===0||n===304||r)){p.b.iG(new B.w3(y.a+p.c+"\nServer response code: "+n))
-return}try{w=B.dl(x.n.a(B.aGB(o.response)),0,null)
-v=B.aJY(w,p.c)
-p.b.cH(0,v)}catch(q){u=B.ah(q)
-t=B.aI(q)
-p.b.ml(u,t)}},
-$S:54}
-A.aDj.prototype={
-$1(d){d.$1(new B.Cj(this.a.j(0),this.b))
-return null},
-$S:418}
-A.aAK.prototype={
-$1(d){var w=this.a
-if(d==null)w.iG(new B.Hv("operation failed"))
-else w.cH(0,d)},
-$S(){return this.b.h("~(0)")}}
-A.ajl.prototype={
-$2(d,e){this.a.F(0,new A.lv(d,e))},
-$S:76};(function inheritance(){var w=a.mixin,v=a.inherit,u=a.inheritMany
-v(A.aC5,B.h5)
-u(B.cf,[A.aDa,A.aDb,A.aDc,A.aDj,A.aAK])
-v(A.t4,B.ey)
-v(A.ajl,B.hG)
-v(A.a0p,B.y)
-v(A.lv,A.a0p)
-w(A.a0p,B.aC)})()
-B.dY(b.typeUniverse,JSON.parse('{"t4":{"ey":["aFi"],"ey.T":"aFi"},"aFi":{"ey":["aFi"]}}'))
-var y={a:"Failed to load network image.\nImage URL: "}
-var x={n:B.B("qT"),s:B.B("iq"),h:B.B("lv"),g:B.B("i1"),B:B.B("bs<t4>"),D:B.B("aS<iq>"),f:B.B("ac<iq>")};(function lazyInitializers(){var w=a.lazy
-w($,"bcT","aT8",()=>new A.aC5())})()}
-$__dart_deferred_initializers__["KxmuqSpWUu3/He7TvUMqKKLtQms="] = $__dart_deferred_initializers__.current
+B.aj7.prototype={
+$0(){A.mc("artdetail")},
+$S:0}
+B.aAz.prototype={
+$1(d){return C.a5.kc(0,J.ac(C.a5.cV(0,d),"abi"))},
+$S:18}
+B.aAA.prototype={
+$1(d){return new A.fD(new ethers.Contract("0xed11a33cC640eDb61e4f4c74A9525BBd4E73d69B",new A.CH(new ethers.utils.Interface(d)).qk(0,C.iT),$.aTh().a))},
+$S:464}
+B.aBQ.prototype={
+$1(d){return this.Xv(d)},
+Xv(d){var x=0,w=A.X(y.h),v,u=this,t,s
+var $async$$1=A.T(function(e,f){if(e===1)return A.U(f,w)
+while(true)switch(x){case 0:t=A.bS(d.a.filters,"Transfer",C.A)
+s=u.a
+if(s==null)s=-1e5
+x=3
+return A.a4(d.zy(new A.Q6(t),s,u.b),$async$$1)
+case 3:v=f
+x=1
+break
+case 1:return A.V(v,w)}})
+return A.W($async$$1,w)},
+$S:465}
+B.aBT.prototype={
+$1(d){return this.Xx(d)},
+Xx(d){var x=0,w=A.X(y.b),v,u=this
+var $async$$1=A.T(function(e,f){if(e===1)return A.U(f,w)
+while(true)switch(x){case 0:v=A.kf(J.fd(u.a,new B.aBR(d),y.e),y.r).aM(0,new B.aBS(),y.b)
+x=1
+break
+case 1:return A.V(v,w)}})
+return A.W($async$$1,w)},
+$S:466}
+B.aBR.prototype={
+$1(d){return this.Xw(d)},
+Xw(d){var x=0,w=A.X(y.r),v,u=this,t,s,r
+var $async$$1=A.T(function(e,f){if(e===1)return A.U(f,w)
+while(true)switch(x){case 0:t=$.a6p()
+s=d.a
+r=J.m(s)
+t.aS(C.cB,"getNFTData.data: "+r.gST(s),null,null)
+t.aS(C.cB,"getNFTData.address: "+r.gEI(s),null,null)
+t.aS(C.cB,"getNFTData.transactionHash: "+r.gWU(s),null,null)
+t.aS(C.cB,"getNFTData.transactionIndex: "+r.gapw(s),null,null)
+t.aS(C.cB,"getNFTData.toString: "+("Event: "+r.gTu(s)+" "+r.gTv(s)+" with args "+A.d(r.gxQ(s))),null,null)
+v=new A.bj(J.bE(J.ac(r.gxQ(s),2)),u.a.fW(0,"tokenURI",[J.ac(r.gxQ(s),2)],y.m),y.r)
+x=1
+break
+case 1:return A.V(v,w)}})
+return A.W($async$$1,w)},
+$S:467}
+B.aBS.prototype={
+$1(d){var x=A.x(y.w,y.i)
+x.ah_(x,d)
+return x},
+$S:468};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.ng,A.aJ)
+x(B.aj7,A.h2)
+w(A.c1,[B.aAz,B.aAA,B.aBQ,B.aBT,B.aBR,B.aBS])
+x(B.R9,A.x4)})()
+A.dY(b.typeUniverse,JSON.parse('{"ng":{"aJ":[],"i":[]},"R9":{"x4":["zh"]}}'))
+var y={k:A.y("fD"),e:A.y("K<bj<e,K<@>>>"),i:A.y("K<@>"),u:A.y("j<i>"),h:A.y("u<h6>"),r:A.y("bj<e,K<@>>"),b:A.y("ar<e,K<@>>"),w:A.y("e"),m:A.y("@")};(function lazyInitializers(){var x=a.lazyFinal
+x($,"bbW","a6p",()=>A.dx(A.OT("Artalaxies Market")))
+x($,"bdi","aTh",()=>B.aZE($.l7().b.b[1]))
+x($,"bd1","aIf",()=>B.aGI())})()}
+$__dart_deferred_initializers__["+GBHCVVVl7ry9q3fyQsB7iISA9o="] = $__dart_deferred_initializers__.current
