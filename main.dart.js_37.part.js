@@ -11,17 +11,17 @@ C=a.updateHolder(c[11],C)
 A=c[0]
 B=c[2]
 F=c[29]
-G=c[35]
+G=c[47]
 H=c[26]
-D=c[42]
+D=c[36]
 E=c[31]
 C.tq.prototype={
 P(d,e){var x,w=null,v="images/9(2).png"
 A.dR(e,B.ap,y.a).toString
 x=y.e
-return new F.lK(w,A.a([A.jD(A.jC(A.a([new A.b3(G.aY,A.aC(A.fj("Product Detail",w,"product_detail",A.a([],y.h),w),w,w,w,A.P(e).H.a,B.y,w),w),A.ab6(A.P(e).ch,5),H.YK(D.E,A.a([A.dy(A.a([A.ls(v,100,w,100),A.ls(v,100,w,100)],x),B.aa,B.N,B.I)],x),D.kC,B.ac)],x),!0,!0,!0))],x),w)}}
+return new F.lK(w,A.a([A.jD(A.jC(A.a([new A.b3(G.aY,A.aC(A.fj("Product Detail",w,"product_detail",A.a([],y.h),w),w,w,w,A.P(e).H.a,B.y,w),w),A.ab1(A.P(e).ch,5),H.YK(D.E,A.a([A.dy(A.a([A.ls(v,100,w,100),A.ls(v,100,w,100)],x),B.aa,B.N,B.I)],x),D.kC,B.ac)],x),!0,!0,!0))],x),w)}}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
 x(C.tq,E.i2)})()
 A.dw(b.typeUniverse,JSON.parse('{"tq":{"a2":[],"i":[]}}'))
 var y={h:A.w("j<z>"),e:A.w("j<i>"),a:A.w("fN")}}
-$__dart_deferred_initializers__["bRI7orw8eX5MJBG3TTVJjNtHTU0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["ud8KMfaU6OQhYZ5T2tDdfYCP9jE="] = $__dart_deferred_initializers__.current

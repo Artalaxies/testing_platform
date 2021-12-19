@@ -5,7 +5,7 @@ _.d=e
 _.e=f
 _.f=g
 _.r=h
-_.a=i},aiZ:function aiZ(d){this.a=d},
+_.a=i},aiU:function aiU(d){this.a=d},
 aGC(){var x=0,w=A.Y(y.k),v
 var $async$aGC=A.U(function(d,e){if(d===1)return A.V(e,w)
 while(true)switch(x){case 0:v=$.oo().H2("assets/ArtalaxiesMarket.json").aK(0,new B.aAo(),y.w).aK(0,new B.aAp(),y.k)
@@ -46,18 +46,18 @@ a.setFunctionNamesIfNecessary([B])
 B=a.updateHolder(c[18],B)
 A=c[0]
 C=c[2]
-D=c[38]
+D=c[55]
 J=c[1]
 E=c[23]
 B.ne.prototype={
 P(d,e){var x=this,w=null,v=A.aC(x.d,w,w,w,A.P(e).H.b,C.y,w),u=x.e
 if(u==null)u=""
-return A.qW(A.p4(A.hn(A.dy(A.a([x.c,v,A.aC(u,w,w,w,A.P(e).H.y,w,w)],y.u),C.aa,C.N,C.I),800,300),w,new B.aiZ(x),w,w),D.mn,w,D.DE)}}
+return A.qW(A.p4(A.hn(A.dy(A.a([x.c,v,A.aC(u,w,w,w,A.P(e).H.y,w,w)],y.u),C.aa,C.N,C.I),800,300),w,new B.aiU(x),w,w),D.mn,w,D.DE)}}
 B.co.prototype={}
 var z=a.updateTypes(["N<r<N<co>>>(ev)","N<co>(fh)"])
-B.aiZ.prototype={
+B.aiU.prototype={
 $0(){var x=this.a
-A.iX("artdetail/"+x.f+"/"+x.r)},
+A.iX("nft/"+x.f+"/"+x.r)},
 $S:0}
 B.aAo.prototype={
 $1(d){return C.V.jl(0,J.a4(C.V.cM(0,d),"abi"))},
@@ -73,7 +73,7 @@ while(true)switch(x){case 0:t=A.bS(d.a.filters,"Transfer",C.B)
 s=u.a
 if(s==null)s=-1e5
 x=3
-return A.a1(d.zw(new A.PW(t),s,u.b),$async$$1)
+return A.a1(d.zw(new A.PV(t),s,u.b),$async$$1)
 case 3:v=f
 x=1
 break
@@ -114,11 +114,11 @@ case 1:return A.W(v,w)}})
 return A.X($async$$1,w)},
 $S:z+1};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.ne,A.aL)
-x(B.aiZ,A.h5)
+x(B.aiU,A.h5)
 x(B.co,A.z)
 w(A.bT,[B.aAo,B.aAp,B.aBH,B.aBJ,B.aBI])})()
 A.dw(b.typeUniverse,JSON.parse('{"ne":{"aL":[],"i":[]}}'))
 var y={k:A.w("ev"),t:A.w("N<co>"),u:A.w("j<i>"),h:A.w("r<fh>"),o:A.w("r<N<co>>"),C:A.w("co"),w:A.w("h")};(function lazyInitializers(){var x=a.lazyFinal
 x($,"bd8","aTb",()=>E.aL9($.jT().b.b[1]))
 x($,"bcJ","aI7",()=>B.aGC())})()}
-$__dart_deferred_initializers__["uaLPLqV8QRWa1YOyuceafXzUl1g="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["Rvm5AHLiaAg+RmjSxFUT391Lr+c="] = $__dart_deferred_initializers__.current

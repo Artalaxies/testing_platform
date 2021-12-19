@@ -30,19 +30,19 @@ v=A.aC(A.fj("Artalaxies is a decentralized marketplace that focuses on providing
 u=y.e
 t=A.dy(A.a([A.c8(n,n,B.o,B.p,n,n,n,5,n,n,n,n,2),A.c8(n,C.fc,B.o,n,n,new A.cd(C.jH,n,n,A.qP(50),n,n,B.O),n,n,new A.aK(5,0,5,0),new A.aK(0,0,0,0),n,n,n),A.c8(n,n,B.o,B.p,n,n,n,120,n,n,n,n,2)],u),B.aa,B.N,B.I)
 s=A.P(e)
-s=A.lW(A.a([t,E.PO(A.c8(n,new A.b3(B.aZ,A.dy(C.Te,B.aF,B.N,B.I),n),B.o,n,n,new A.cd(s.rx,n,n,n,C.j8,n,B.O),n,100,B.cZ,n,n,n,n))],u),B.aa,B.N,B.I,n)
+s=A.lW(A.a([t,E.PN(A.c8(n,new A.b3(B.aZ,A.dy(C.Te,B.aF,B.N,B.I),n),B.o,n,n,new A.cd(s.rx,n,n,n,C.j8,n,B.O),n,100,B.cZ,n,n,n,n))],u),B.aa,B.N,B.I,n)
 t=A.dy(A.a([A.c8(n,n,B.o,B.p,n,n,n,5,n,n,n,n,2),A.c8(n,C.fc,B.o,n,n,new A.cd(C.jH,n,n,A.qP(50),n,n,B.O),n,n,C.Of,B.H,n,n,n),A.c8(n,n,B.o,B.p,n,n,n,120,n,n,n,n,2)],u),B.aa,B.N,B.I)
 r=A.P(e)
-r=A.lW(A.a([t,E.PO(A.c8(n,new A.b3(B.aZ,A.dy(C.Uy,B.aF,B.N,B.I),n),B.o,n,n,new A.cd(r.rx,n,n,n,C.j8,n,B.O),n,100,B.cZ,n,n,n,n))],u),B.aa,B.N,B.I,n)
+r=A.lW(A.a([t,E.PN(A.c8(n,new A.b3(B.aZ,A.dy(C.Uy,B.aF,B.N,B.I),n),B.o,n,n,new A.cd(r.rx,n,n,n,C.j8,n,B.O),n,100,B.cZ,n,n,n,n))],u),B.aa,B.N,B.I,n)
 t=A.dy(A.a([A.c8(n,n,B.o,B.p,n,n,n,5,n,n,n,n,2),A.c8(n,C.fc,B.o,n,n,new A.cd(C.jH,n,n,A.qP(50),n,n,B.O),n,n,new A.aK(5,0,5,0),new A.aK(0,0,0,0),n,n,n),A.c8(n,n,B.o,B.p,n,n,n,120,n,n,n,n,2)],u),B.aa,B.N,B.I)
 q=A.P(e)
-q=A.lW(A.a([t,E.PO(A.c8(n,new A.b3(B.aZ,A.dy(C.Tu,B.aF,B.N,B.I),n),B.o,n,n,new A.cd(q.rx,n,n,n,C.j8,n,B.O),n,100,B.cZ,n,n,n,n))],u),B.aa,B.N,B.I,n)
+q=A.lW(A.a([t,E.PN(A.c8(n,new A.b3(B.aZ,A.dy(C.Tu,B.aF,B.N,B.I),n),B.o,n,n,new A.cd(q.rx,n,n,n,C.j8,n,B.O),n,100,B.cZ,n,n,n,n))],u),B.aa,B.N,B.I,n)
 t=A.c8(n,n,B.o,B.p,n,n,n,5,n,n,n,n,2)
 p=A.P(e).rx.a
 p=A.dy(A.a([t,A.c8(n,C.fc,B.o,n,n,new A.cd(A.aT(p>>>24&255,50,p>>>8&255,p&255),n,n,A.qP(50),n,n,B.O),n,n,new A.aK(5,0,5,0),new A.aK(0,0,0,0),n,n,n),A.c8(n,n,B.o,B.p,n,n,n,120,n,n,n,n,2)],u),B.aa,B.N,B.I)
 t=A.P(e)
 o=A.a([new A.bA(0,B.J,B.it,B.i,10)],y.c)
-o=A.lW(A.a([p,E.PO(A.c8(n,new A.b3(B.aZ,A.dy(C.T6,B.aF,B.N,B.I),n),B.o,n,n,new A.cd(t.rx,n,n,n,o,n,B.O),n,100,new A.aK(10,10,10,10),n,n,n,n))],u),B.aa,B.N,B.I,n)
+o=A.lW(A.a([p,E.PN(A.c8(n,new A.b3(B.aZ,A.dy(C.T6,B.aF,B.N,B.I),n),B.o,n,n,new A.cd(t.rx,n,n,n,o,n,B.O),n,100,new A.aK(10,10,10,10),n,n,n,n))],u),B.aa,B.N,B.I,n)
 A.dR(e,B.ap,l).toString
 return new G.lK(m,A.a([A.jD(A.jC(A.a([new A.b3(C.O5,A.dy(A.a([w,C.a3N,v,C.zh,s,r,q,o,C.zh,A.aC(A.fj("Contact Information",n,"contact_information",A.a([],x),n),n,n,n,A.P(e).H.b,B.y,n),H.aLg(new D.a6A(),A.P(e).H.c,"Email: contact@artalaxies.us")],u),B.aF,B.N,B.I),n)],u),!0,!0,!0))],u),n)}}
 var z=a.updateTypes(["~(ix)"])
@@ -90,4 +90,4 @@ C.NH=new A.vH(5,null,null)
 C.a3N=new A.b3(C.O2,C.NH,null)
 C.O_=new A.aK(0,100,0,0)
 C.zh=new A.b3(C.O_,null,null)})()}
-$__dart_deferred_initializers__["5YsUlnrBrB9AU7CG4pXp4Qbei+M="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["zaW497hADoo2FHoaYsxAt3Bqm4Q="] = $__dart_deferred_initializers__.current
