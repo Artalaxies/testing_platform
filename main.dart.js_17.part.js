@@ -3,5 +3,5 @@ $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 a.setFunctionNamesIfNecessary([])
 A=c[40]
 B=c[0]
-var z=a.updateTypes([]);(function constants(){A.f2=new B.aK(20,20,20,20)})()}
-$__dart_deferred_initializers__["Pm3oD7QqPRy9u0thtuEyMYJMM84="] = $__dart_deferred_initializers__.current
+var z=a.updateTypes([]);(function constants(){A.f2=new B.aH(20,20,20,20)})()}
+$__dart_deferred_initializers__["PD9TXNWDROEFaZxS+FPjz8yVWbE="] = $__dart_deferred_initializers__.current
