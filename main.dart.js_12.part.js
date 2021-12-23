@@ -7,16 +7,16 @@ this.a=e}},A,B,D
 a.setFunctionNamesIfNecessary([C])
 C=a.updateHolder(c[27],C)
 A=c[0]
-B=c[65]
+B=c[66]
 D=c[2]
 C.Rf.prototype={
 j(d){return"JsonRpcProvider: "+this.c}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(C.Rf,A.xf)})()
-A.cs(b.typeUniverse,JSON.parse('{"Rf":{"xf":["zt"]}}'));(function constants(){B.mu=new A.k(4293892911)
+A.cs(b.typeUniverse,JSON.parse('{"Rf":{"xf":["zt"]}}'));(function constants(){B.ms=new A.k(4293892911)
 B.hI=new A.cG(30,30)
-B.FP=new A.dd(B.hI,B.hI,B.hI,B.hI)
-B.DL=new A.es(B.FP,D.q)})();(function lazyInitializers(){var y=a.lazyFinal
+B.FO=new A.dd(B.hI,B.hI,B.hI,B.hI)
+B.DJ=new A.es(B.FO,D.q)})();(function lazyInitializers(){var y=a.lazyFinal
 y($,"bd2","KG",()=>A.dI(A.OX("ERC721 Contract")))
 y($,"bdl","aJ2",()=>A.xI())})()}
-$__dart_deferred_initializers__["I7Y/zZ0ig0u/9wKofiVTyb005Zc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["UOzPGUgsO57QQ/xclnt/73ImhLE="] = $__dart_deferred_initializers__.current

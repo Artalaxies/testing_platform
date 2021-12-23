@@ -50,13 +50,13 @@ a.setFunctionNamesIfNecessary([B])
 B=a.updateHolder(c[20],B)
 A=c[0]
 C=c[2]
-D=c[65]
+D=c[66]
 J=c[1]
 E=c[27]
 B.nm.prototype={
 P(d,e){var x=this,w=null,v=A.ap(x.d,w,w,w,A.M(e).E.b,C.t,w),u=x.e
 if(u==null)u=""
-return A.kg(A.pg(A.ib(A.dF(A.a([x.c,v,A.ap(u,w,w,w,A.M(e).E.y,w,w)],y.u),C.ad,C.N,C.K),800,300),w,w,w,new B.ajA(x),w,w),D.mu,w,D.DL)}}
+return A.kf(A.pg(A.ib(A.dF(A.a([x.c,v,A.ap(u,w,w,w,A.M(e).E.y,w,w)],y.u),C.ad,C.N,C.K),800,300),w,w,w,new B.ajA(x),w,w),D.ms,w,D.DJ)}}
 B.cq.prototype={}
 var z=a.updateTypes(["P<r<P<cq>>>(eA)","P<cq>(ft)"])
 B.ajA.prototype={
@@ -101,11 +101,11 @@ var $async$$1=A.U(function(e,f){if(e===1)return A.V(f,w)
 while(true)switch(x){case 0:t=$.KG()
 s=d.a
 r=J.m(s)
-t.aE(C.cD,"getNFTData.data: "+r.gT1(s),null,null)
-t.aE(C.cD,"getNFTData.address: "+r.gpu(s),null,null)
-t.aE(C.cD,"getNFTData.transactionHash: "+r.gWZ(s),null,null)
-t.aE(C.cD,"getNFTData.transactionIndex: "+r.gapw(s),null,null)
-t.aE(C.cD,"getNFTData.toString: "+("Event: "+r.gTC(s)+" "+r.gTD(s)+" with args "+A.d(r.gpD(s))),null,null)
+t.aE(C.cC,"getNFTData.data: "+r.gT1(s),null,null)
+t.aE(C.cC,"getNFTData.address: "+r.gpu(s),null,null)
+t.aE(C.cC,"getNFTData.transactionHash: "+r.gWZ(s),null,null)
+t.aE(C.cC,"getNFTData.transactionIndex: "+r.gapw(s),null,null)
+t.aE(C.cC,"getNFTData.toString: "+("Event: "+r.gTC(s)+" "+r.gTD(s)+" with args "+A.d(r.gpD(s))),null,null)
 q=B
 p=r.gpu(s)
 o=J.bh(J.a1(r.gpD(s),2))
@@ -140,10 +140,10 @@ return A.X($async$$1,w)},
 $S:76};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.nm,A.aM)
 x(B.ajA,A.eV)
-w(A.bK,[B.aBx,B.aBy,B.aCQ,B.aCT,B.aCS,B.aCR])
+w(A.bL,[B.aBx,B.aBy,B.aCQ,B.aCT,B.aCS,B.aCR])
 x(B.cq,A.y)})()
 A.cs(b.typeUniverse,JSON.parse('{"nm":{"aM":[],"i":[]}}'))
 var y={k:A.w("eA"),t:A.w("P<cq>"),u:A.w("j<i>"),h:A.w("r<ft>"),o:A.w("r<P<cq>>"),C:A.w("cq"),w:A.w("h"),b:A.w("@")};(function lazyInitializers(){var x=a.lazyFinal
-x($,"ber","aUk",()=>E.aMe($.k4().b.b[1]))
+x($,"ber","aUk",()=>E.aMe($.k3().b.b[1]))
 x($,"be1","a6T",()=>B.aHF())})()}
-$__dart_deferred_initializers__["S1GoZT3ZCKwp4j4BXg6m6w97GdI="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["r2L77z+UKtAod43pe/YUtkzeWZw="] = $__dart_deferred_initializers__.current

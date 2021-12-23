@@ -11,7 +11,7 @@ B=a.updateHolder(c[7],B)
 A=c[0]
 C=c[2]
 F=c[38]
-D=c[56]
+D=c[57]
 E=c[40]
 B.re.prototype={
 P(d,e){var x,w,v,u=null,t=y.a
@@ -21,9 +21,9 @@ w=A.ap(A.eZ("Community",u,"community",A.a([],x),u),u,u,u,A.M(e).E.a,C.t,u)
 v=A.abC(A.M(e).ch,2)
 A.dA(e,C.ai,t).toString
 t=y.e
-return new F.jH(u,A.a([A.id(A.ic(A.a([new A.aS(D.aK,w,u),v,new A.aS(D.aK,A.ap(A.eZ("Coming Soon",u,"community_text",A.a([],x),u),u,u,u,A.M(e).E.a,C.t,u),u),A.abC(A.M(e).ch,5)],t),!0,!0,!0))],t),u)}}
+return new F.jH(u,A.a([A.id(A.ic(A.a([new A.aQ(D.aK,w,u),v,new A.aQ(D.aK,A.ap(A.eZ("Coming Soon",u,"community_text",A.a([],x),u),u,u,u,A.M(e).E.a,C.t,u),u),A.abC(A.M(e).ch,5)],t),!0,!0,!0))],t),u)}}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
 x(B.re,E.fY)})()
 A.cs(b.typeUniverse,JSON.parse('{"re":{"a_":[],"i":[]}}'))
 var y={h:A.w("j<y>"),e:A.w("j<i>"),a:A.w("fh")}}
-$__dart_deferred_initializers__["5wc0AIIoB9O50ahRGEyTIveSsRk="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["7GagBxfD72K7DoY7okVLWJ+0Mnw="] = $__dart_deferred_initializers__.current

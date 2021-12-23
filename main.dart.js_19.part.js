@@ -26,7 +26,7 @@ B=a.updateHolder(c[6],B)
 A=c[0]
 E=c[20]
 C=c[2]
-D=c[60]
+D=c[61]
 F=c[21]
 I=c[38]
 G=c[34]
@@ -51,13 +51,13 @@ x=y.h
 w=A.ap(A.eZ("Marketplace",r,"marketplace",A.a([],x),r),r,r,r,A.M(e).E.a,C.t,r)
 A.dA(e,C.ai,q).toString
 v=y.u
-w=A.id(A.ic(A.a([new A.aS(D.Oz,w,r),A.ap(A.eZ("\nNFT Derivative MarketPlace \nDiscover Licenses and Merchandise\n",r,"header_description",A.a([],x),r),r,r,r,A.M(e).E.b,C.t,r)],v),!0,!0,!0))
+w=A.id(A.ic(A.a([new A.aQ(D.Ox,w,r),A.ap(A.eZ("\nNFT Derivative MarketPlace \nDiscover Licenses and Merchandise\n",r,"header_description",A.a([],x),r),r,r,r,A.M(e).E.b,C.t,r)],v),!0,!0,!0))
 u=C.d.cf(e.a1(y.x).f.a.a,300)
 t=this.r
 s=A.ab(t).h("ag<1,fa<cq>>")
 u=F.aNU(0.8,A.ao(new A.ag(t,new B.aiE(this),s),!0,s.h("ax.E")),u,40,40)
 A.dA(e,C.ai,q).toString
-return new I.jH(r,A.a([w,new A.FO(D.Ow,u,r),A.id(A.ic(A.a([A.pg(A.ap(A.eZ("Show More",r,"show_more",A.a([],x),r),r,r,r,r,r,r),r,r,r,new B.aiF(this),r,r)],v),!0,!0,!0))],v),r)}}
+return new I.jH(r,A.a([w,new A.FO(D.Ou,u,r),A.id(A.ic(A.a([A.pg(A.ap(A.eZ("Show More",r,"show_more",A.a([],x),r),r,r,r,r,r,r),r,r,r,new B.aiF(this),r,r)],v),!0,!0,!0))],v),r)}}
 var z=a.updateTypes(["~(r<P<cq>>)","fa<cq>(P<cq>)","fa<@>(a9,ct<cq>)","nm(a9,ct<@>)"])
 B.aiA.prototype={
 $1(d){return this.Xv(d)},
@@ -95,7 +95,7 @@ return A.iE(G.ov(new B.aiB(this.a,e),null,w),x,w)},
 $S:z+2}
 B.aiB.prototype={
 $2(d,e){var x,w=null
-A.b(this.a.c,"windowLogger").aE(C.cD,C.b.Z("get json: ",J.bh(e.gdM())),w,w)
+A.b(this.a.c,"windowLogger").aE(C.cC,C.b.Z("get json: ",J.bh(e.gdM())),w,w)
 x=this.b
 return new E.nm(K.aFK(J.aKn(J.bh(J.a1(e.gdM(),"image")),"ipfs://","https://cloudflare-ipfs.com/ipfs/"),w,w),J.a1(e.gdM(),"name"),J.a1(e.gdM(),"description"),x.gdM().a,x.gdM().b,w)},
 $S:z+3}
@@ -109,10 +109,10 @@ B.aiC.prototype={
 $0(){this.a.x+=1e5},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.t6,H.fY)
-w(A.bK,[B.aiA,B.aiz,B.aiH,B.aiE])
+w(A.bL,[B.aiA,B.aiz,B.aiH,B.aiE])
 w(A.eV,[B.aiy,B.aiG,B.aiF,B.aiC])
 w(A.fq,[B.aiD,B.aiB])})()
 A.cs(b.typeUniverse,JSON.parse('{"t6":{"a_":[],"i":[]}}'))
-var y={l:A.w("j<P<cq>>"),h:A.w("j<y>"),u:A.w("j<i>"),x:A.w("fe"),C:A.w("cq"),q:A.w("fh"),b:A.w("@"),v:A.w("~")};(function constants(){D.Ow=new A.aC(40,40,40,40)
-D.Oz=new A.aC(50,50,50,50)})()}
-$__dart_deferred_initializers__["mvwU86Fw4lcMQO8ey1pbVuPTxi8="] = $__dart_deferred_initializers__.current
+var y={l:A.w("j<P<cq>>"),h:A.w("j<y>"),u:A.w("j<i>"),x:A.w("fe"),C:A.w("cq"),q:A.w("fh"),b:A.w("@"),v:A.w("~")};(function constants(){D.Ou=new A.aC(40,40,40,40)
+D.Ox=new A.aC(50,50,50,50)})()}
+$__dart_deferred_initializers__["o+/pvMHmdkwQXLQLcj4ynMWQPxI="] = $__dart_deferred_initializers__.current
