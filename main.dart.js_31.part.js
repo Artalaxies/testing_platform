@@ -1,17 +1,23 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A={
-Q2(d){return new A.n0(1,C.cw,d,null)},
-n0:function n0(d,e,f,g){var _=this
-_.f=d
-_.r=e
-_.b=f
-_.a=g}},B,C
-a.setFunctionNamesIfNecessary([A])
-A=a.updateHolder(c[25],A)
-B=c[0]
-C=c[2]
-A.n0.prototype={}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.n0,B.wa)})()
-B.cs(b.typeUniverse,JSON.parse('{"n0":{"e9":["hW"],"bg":[],"i":[],"e9.T":"hW"}}'))}
-$__dart_deferred_initializers__["ya15W4XSIlAU+lJLdOlx0Q2xgMg="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C={
+KA(d){var x=0,w=A.Y(y.a),v,u,t,s,r
+var $async$KA=A.U(function(e,f){if(e===1)return A.V(f,w)
+while(true)switch(x){case 0:r=A.aGV(B.b.Ip(d))
+if(r!=null)u=r.gen()==="http"||r.gen()==="https"
+else u=!1
+t=$.aII()
+x=3
+return A.a3(t.V9(d,!1,!1,B.a38,!1,u,!1,null),$async$KA)
+case 3:s=f
+v=s
+x=1
+break
+case 1:return A.W(v,w)}})
+return A.X($async$KA,w)}},A,B
+a.setFunctionNamesIfNecessary([C])
+C=a.updateHolder(c[25],C)
+A=c[0]
+B=c[2]
+var z=a.updateTypes([])
+var y={a:A.w("C")}}
+$__dart_deferred_initializers__["Zajubp7fMjXpmLAb5wlMeaYI0vM="] = $__dart_deferred_initializers__.current
