@@ -1,14 +1,14 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A={Cl:function Cl(d){this.a=d}},B,C
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A={Co:function Co(d){this.a=d}},B,C
 a.setFunctionNamesIfNecessary([A])
-A=a.updateHolder(c[24],A)
+A=a.updateHolder(c[23],A)
 B=c[0]
 C=c[36]
-A.Cl.prototype={
-zk(d,e){return this.a},
-zi(d,e){return this.a},
-j(d){return"FixedColumnWidth("+B.jg(this.a)+")"}}
+A.Co.prototype={
+zl(d,e){return this.a},
+zj(d,e){return this.a},
+j(d){return"FixedColumnWidth("+B.ji(this.a)+")"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.Cl,C.me)})()
-B.cc(b.typeUniverse,JSON.parse('{"Cl":{"me":[]}}'))}
-$__dart_deferred_initializers__["ePvEbH7zTtDA4zRMRZPQmZc86bU="] = $__dart_deferred_initializers__.current
+y(A.Co,C.mh)})()
+B.c5(b.typeUniverse,JSON.parse('{"Co":{"mh":[]}}'))}
+$__dart_deferred_initializers__["xwr8D2KOoQdt9fPGz+TZxqTQ5RQ="] = $__dart_deferred_initializers__.current
