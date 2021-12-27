@@ -3,7 +3,7 @@ $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
 a6x(d){return B.b9c(d)},
 b9c(d){var x=0,w=A.Y(y.b),v,u,t
 var $async$a6x=A.U(function(e,f){if(e===1)return A.V(f,w)
-while(true)switch(x){case 0:t=$.KQ()
+while(true)switch(x){case 0:t=$.KP()
 t.aE(C.u,"readNFTData executed",null,null)
 u=C.b.w(d,"ipfs")?C.b.Z("https://cloudflare-ipfs.com/ipfs/",C.c.gI(d.split("/"))):d
 t.aE(C.u,u,null,null)
@@ -44,7 +44,7 @@ $S:91}
 B.aEj.prototype={
 $1(d){return C.a3.cP(0,d)},
 $S:167};(function inheritance(){var x=a.inheritMany
-x(A.bD,[B.aEi,B.aEj])})()
+x(A.bE,[B.aEi,B.aEj])})()
 A.c5(b.typeUniverse,JSON.parse("{}"))
 var y={g:A.u("f"),b:A.u("@")};(function constants(){D.n2=new A.at(50,50,50,50)})()}
-$__dart_deferred_initializers__["FrE93Sw4dBXL+aYmnloxInoUV2I="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["hzOjHAxbz+L8uzNPk8hJZ/sd3c0="] = $__dart_deferred_initializers__.current

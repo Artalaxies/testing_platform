@@ -12,7 +12,7 @@ B.Rm.prototype={
 j(d){return"JsonRpcProvider: "+this.c}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(B.Rm,A.xk)})()
-A.c5(b.typeUniverse,JSON.parse('{"Rm":{"xk":["zx"]}}'));(function constants(){C.iF=new A.j(4278206324)})();(function lazyInitializers(){var y=a.lazyFinal
-y($,"bdo","KQ",()=>A.dJ(A.P5("ERC721 Contract")))
+A.c5(b.typeUniverse,JSON.parse('{"Rm":{"xk":["zy"]}}'));(function constants(){C.iF=new A.j(4278206324)})();(function lazyInitializers(){var y=a.lazyFinal
+y($,"bdo","KP",()=>A.dJ(A.P4("ERC721 Contract")))
 y($,"bdH","aJq",()=>A.xN())})()}
-$__dart_deferred_initializers__["VR7dFoPGYkEg3MebJkSoLQ79nc4="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["dsmkPhmwi9aKwBRSnLoLG8O6/as="] = $__dart_deferred_initializers__.current

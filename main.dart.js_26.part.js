@@ -21,14 +21,14 @@ a.setFunctionNamesIfNecessary([B])
 B=a.updateHolder(c[8],B)
 C=c[2]
 A=c[0]
-L=c[40]
+L=c[41]
 G=c[50]
 H=c[59]
 M=c[49]
-D=c[36]
+D=c[37]
 F=c[80]
 N=c[53]
-E=c[35]
+E=c[36]
 O=c[26]
 I=c[54]
 J=c[1]
@@ -39,24 +39,24 @@ N(d,e){var x,w,v,u,t,s,r,q,p,o,n=null,m=$.k8(),l=m.c!=null,k=l?C.a4_:C.cg
 k=A.lQ(A.ar(l?"Disconnect your wallet":"Connect to Wallet",n,n,n,n,n,n),k,n,n,new B.aaq(),n,n)
 x=m.e
 l=y.e
-x=L.H4(G.G,A.a([new A.e5(C.lm,n,n,new A.az(H.n3,k,n),n),new A.e5(C.ll,n,n,A.ar("Address: "+(x==null?"Unconnected to a Cryptos Wallet":x),n,n,n,A.N(e).E.c.cX(M.a40),n,n),n)],l),G.i3,C.ac)
+x=L.yO(G.G,A.a([new A.e5(C.lm,n,n,new A.az(H.n3,k,n),n),new A.e5(C.ll,n,n,A.ar("Address: "+(x==null?"Unconnected to a Cryptos Wallet":x),n,n,n,A.N(e).E.c.cX(M.a40),n,n),n)],l),G.i3,C.a8)
 k=A.ar("Cullen's Cryptos Tech",n,n,n,A.N(e).E.b,n,n)
-w=A.BS(n,n)
+w=A.BT(n,n)
 v=A.ar("Balance",n,n,n,A.N(e).E.d,n,n)
-u=A.ii(A.a([A.ar(m.b.c,n,n,n,n,n,n)],l),C.Y,C.F,C.I,n)
+u=A.j3(A.a([A.ar(m.b.c,n,n,n,n,n,n)],l),C.Y,C.F,C.J,n)
 t=new A.dA(A.N(e).cx,2,C.aS)
 s=m.b.c
 s=A.a([A.mW(A.ar(s,n,n,n,n,n,n),n,n),A.mW(A.ar(s,n,n,n,n,n,n),n,n)],l)
 r=m.rd()
 q=this.r
 p=y.c
-r=A.iK(D.oy(new B.aar(),q,p),r,p)
+r=A.iJ(D.oy(new B.aar(),q,p),r,p)
 o=m.rd()
-o=A.a([r,A.iK(D.oy(new B.aas(),q,p),o,p)],l)
+o=A.a([r,A.iJ(D.oy(new B.aas(),q,p),o,p)],l)
 r=m.IK("NT")
-r=A.iK(D.oy(new B.aat(),q,p),r,p)
+r=A.iJ(D.oy(new B.aat(),q,p),r,p)
 m=m.IK("NT")
-return new A.az(H.mY,A.d7(A.a([x,k,w,v,F.mP,u,F.mP,new A.az(N.fb,E.arS(new O.Gm(C.q,C.q,C.q,C.q,t,t,C.aI),A.a([new E.dF(n,s),new E.dF(n,o),new E.dF(n,A.a([r,A.iK(D.oy(new B.aau(),q,p),m,p)],l))],y.m),n,I.dQ,I.hQ),n)],l),C.as,C.F,C.I),n)}}
+return new A.az(H.mY,A.d7(A.a([x,k,w,v,F.mP,u,F.mP,new A.az(N.fc,E.arS(new O.Gm(C.q,C.q,C.q,C.q,t,t,C.aI),A.a([new E.dF(n,s),new E.dF(n,o),new E.dF(n,A.a([r,A.iJ(D.oy(new B.aau(),q,p),m,p)],l))],y.m),n,I.dQ,I.hR),n)],l),C.aA,C.F,C.J),n)}}
 var z=a.updateTypes([])
 B.aaq.prototype={
 $0(){var x=$.k8()
@@ -124,4 +124,4 @@ x(B.aaq,A.e6)
 w(A.fs,[B.aar,B.aap,B.aas,B.aao,B.aat,B.aan,B.aau,B.aam])})()
 A.c5(b.typeUniverse,JSON.parse('{"rg":{"Z":[],"i":[]}}'))
 var y={c:A.u("kb"),h:A.u("k<f>"),m:A.u("k<dF>"),e:A.u("k<i>")};(function constants(){F.mP=new A.jB(null,null,null,null)})()}
-$__dart_deferred_initializers__["dRtgHzRGKy58c2AToNWwlzNjE9k="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["zwFLtjdPgIIUD/Wj196b+hZsZ7k="] = $__dart_deferred_initializers__.current

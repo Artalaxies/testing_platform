@@ -18,12 +18,12 @@ N(d,e){var x,w,v,u=null,t=y.a
 A.dq(e,C.ag,t).toString
 x=y.h
 w=A.ar(A.eG("Community",u,"community",A.a([],x),u),u,u,u,A.N(e).E.a,C.A,u)
-v=A.BS(A.N(e).ch,2)
+v=A.BT(A.N(e).ch,2)
 A.dq(e,C.ag,t).toString
 t=y.e
-return new F.iY(u,A.a([A.h4(A.h3(A.a([new A.az(D.aB,w,u),v,new A.az(D.aB,A.ar(A.eG("Coming Soon",u,"community_text",A.a([],x),u),u,u,u,A.N(e).E.a,C.A,u),u),A.BS(A.N(e).ch,5)],t),!0,!0,!0))],t),u)}}
+return new F.iX(u,A.a([A.h4(A.h3(A.a([new A.az(D.aB,w,u),v,new A.az(D.aB,A.ar(A.eG("Coming Soon",u,"community_text",A.a([],x),u),u,u,u,A.N(e).E.a,C.A,u),u),A.BT(A.N(e).ch,5)],t),!0,!0,!0))],t),u)}}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
 x(B.re,E.fE)})()
 A.c5(b.typeUniverse,JSON.parse('{"re":{"Z":[],"i":[]}}'))
 var y={h:A.u("k<y>"),e:A.u("k<i>"),a:A.u("f4")}}
-$__dart_deferred_initializers__["tdsBplVRordI6sh4Bo4T93kPgSk="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["b0DCt4j51MC28tJJxr3zTU61eVw="] = $__dart_deferred_initializers__.current
