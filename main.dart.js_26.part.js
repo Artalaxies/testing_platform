@@ -35,11 +35,11 @@ J=c[1]
 K=c[43]
 B.rm.prototype={
 aV(){this.wi()},
-M(d,e){var x,w,v,u,t,s,r,q,p,o,n=null,m=$.hS(),l=m.c!=null,k=l?C.a40:C.ch
+M(d,e){var x,w,v,u,t,s,r,q,p,o,n=null,m=$.hS(),l=m.c!=null,k=l?C.a41:C.ch
 k=A.iU(A.aq(l?"Disconnect your wallet":"Connect to Wallet",n,n,n,n,n,n),k,n,n,new B.aaf(),n,n)
 x=m.e
 l=y.e
-x=L.yV(F.E,A.a([new A.dW(C.iv,n,n,new A.az(G.n7,k,n),n),new A.dW(C.lt,n,n,A.aq("Address: "+(x==null?"Unconnected to a Cryptos Wallet":x),n,n,n,A.N(e).E.c.cP(M.a41),n,n),n)],l),F.i9,C.a8)
+x=L.yV(F.E,A.a([new A.dW(C.iv,n,n,new A.ax(G.n7,k,n),n),new A.dW(C.lt,n,n,A.aq("Address: "+(x==null?"Unconnected to a Cryptos Wallet":x),n,n,n,A.N(e).E.c.cP(M.a42),n,n),n)],l),F.i9,C.a8)
 k=A.aq("Cullen's Cryptos Tech",n,n,n,A.N(e).E.b,n,n)
 w=A.aby(n,n)
 v=A.aq("Balance",n,n,n,A.N(e).E.d,n,n)
@@ -56,7 +56,7 @@ o=A.a([r,A.hq(D.ln(new B.aah(),q,p),o,p)],l)
 r=m.IT("NT")
 r=A.hq(D.ln(new B.aai(),q,p),r,p)
 m=m.IT("NT")
-return new A.az(G.n1,A.d7(A.a([x,k,w,v,H.fh,u,H.fh,new A.az(N.e7,E.ar9(new O.Gt(C.q,C.q,C.q,C.q,t,t,C.aI),A.a([new E.d9(n,s),new E.d9(n,o),new E.d9(n,A.a([r,A.hq(D.ln(new B.aaj(),q,p),m,p)],l))],y.m),n,I.dW,I.hW),n)],l),C.ao,C.H,C.J),n)}}
+return new A.ax(G.n1,A.d7(A.a([x,k,w,v,H.fh,u,H.fh,new A.ax(N.e7,E.ar9(new O.Gt(C.q,C.q,C.q,C.q,t,t,C.aI),A.a([new E.d9(n,s),new E.d9(n,o),new E.d9(n,A.a([r,A.hq(D.ln(new B.aaj(),q,p),m,p)],l))],y.m),n,I.dW,I.hW),n)],l),C.ao,C.H,C.J),n)}}
 var z=a.updateTypes([])
 B.aaf.prototype={
 $0(){var x=$.hS()
@@ -124,4 +124,4 @@ x(B.aaf,A.e8)
 w(A.fv,[B.aag,B.aae,B.aah,B.aad,B.aai,B.aac,B.aaj,B.aab])})()
 A.cc(b.typeUniverse,JSON.parse('{"rm":{"Z":[],"i":[]}}'))
 var y={c:A.u("ke"),h:A.u("k<f>"),m:A.u("k<d9>"),e:A.u("k<i>")}}
-$__dart_deferred_initializers__["tFCHa89wUT0qQmHVMW/oj9T9WiY="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["o3HY/FxPDq0myVEWIYxG8nxFqrc="] = $__dart_deferred_initializers__.current

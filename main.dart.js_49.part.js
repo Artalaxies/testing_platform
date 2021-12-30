@@ -60,10 +60,10 @@ s=y.u
 r=A.j9(A.a([A.aq("Supply by Supplier Name",m,m,m,A.N(e).E.z,m,m),A.aq("200",m,m,m,A.N(e).E.z,C.D,m)],s),C.a3,C.H,C.J,m)
 q=A.aq("US 19.00",m,m,m,A.N(e).E.z,m,m)
 p=y.x
-o=A.j9(A.a([A.aq("Color:",m,m,m,m,m,m),new A.az(new A.at($.hB.a/10,0,0,0),new B.w8(A.a(["B","W","R"],p),m),m)],s),C.a3,C.H,C.cg,m)
-p=A.j9(A.a([A.aq("Size:",m,m,m,m,m,m),new A.az(new A.at($.hB.a/9.5,0,0,0),new B.w8(A.a(["S","M","L"],p),m),m)],s),C.a3,C.H,C.cg,m)
+o=A.j9(A.a([A.aq("Color:",m,m,m,m,m,m),new A.ax(new A.as($.hB.a/10,0,0,0),new B.w8(A.a(["B","W","R"],p),m),m)],s),C.a3,C.H,C.cg,m)
+p=A.j9(A.a([A.aq("Size:",m,m,m,m,m,m),new A.ax(new A.as($.hB.a/9.5,0,0,0),new B.w8(A.a(["S","M","L"],p),m),m)],s),C.a3,C.H,C.cg,m)
 n=A.aq("Description",m,m,m,m,m,m)
-return new H.j2(m,A.a([A.h2(A.h1(A.a([new A.az(I.at,x,m),w,K.yV(E.i8,A.a([v,A.fm(A.d7(A.a([u,t,r,q,o,p,A.hV(A.td(m,!1,m,m,A.aq("100% Cotton \nMachine Wash",m,m,m,m,m,m),n,m),m,m,m),L.mU,M.aEY(N.F_,new B.alG(),A.Bg(m,m,new O.cu(C.ch,y.p),m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],s),C.ao,C.H,C.cg),300,300)],s),E.i9,C.a8)],s),!0,!0,!0))],s),m)}}
+return new H.j2(m,A.a([A.h2(A.h1(A.a([new A.ax(I.at,x,m),w,K.yV(E.i8,A.a([v,A.fm(A.d7(A.a([u,t,r,q,o,p,A.hV(A.td(m,!1,m,m,A.aq("100% Cotton \nMachine Wash",m,m,m,m,m,m),n,m),m,m,m),L.mU,M.aEY(N.F_,new B.alG(),A.Bg(m,m,new O.cu(C.ch,y.p),m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],s),C.ao,C.H,C.cg),300,300)],s),E.i9,C.a8)],s),!0,!0,!0))],s),m)}}
 B.w8.prototype={
 aN(){return new B.a_R(C.o)}}
 B.a_R.prototype={
@@ -71,7 +71,7 @@ aV(){this.d=this.a.c[0]
 this.bB()},
 p(d){this.by(0)},
 M(d,e){var x=null,w=A.b(this.d,"dropdownValue"),v=A.bA(x,x,C.l,C.ch,x,x,x,2,x,x,x,x,x),u=this.a.c,t=A.aa(u).h("ad<1,jI<f>>")
-return F.aEV(x,16,x,D.Pr,A.am(new A.ad(u,new B.avo(),t),!0,t.h("ax.E")),new B.avp(this),P.ES,v,w,y.w)}}
+return F.aEV(x,16,x,D.Ps,A.am(new A.ad(u,new B.avo(),t),!0,t.h("ay.E")),new B.avp(this),P.ES,v,w,y.w)}}
 B.EP.prototype={
 aN(){var x=null,w="images/9(2).png"
 return new B.a2E(A.a([A.iO(w,100,x,100),A.iO("images/9.png",100,x,100),A.iO(w,100,x,100),A.iO(w,100,x,100)],y.F),C.o)}}
@@ -127,6 +127,6 @@ w(A.Z,[B.w8,B.EP])
 w(A.ao,[B.a_R,B.a2E])
 w(A.bE,[B.avp,B.avo])})()
 A.cc(b.typeUniverse,JSON.parse('{"tO":{"Z":[],"i":[]},"w8":{"Z":[],"i":[]},"a_R":{"ao":["w8"]},"EP":{"Z":[],"i":[]},"a2E":{"ao":["EP"]}}'))
-var y={F:A.u("k<fX>"),h:A.u("k<x>"),x:A.u("k<f>"),u:A.u("k<i>"),q:A.u("f5"),w:A.u("f"),l:A.u("i"),p:A.u("cu<j?>"),b:A.u("@")};(function constants(){D.Pi=new A.kC(57495,!1)
-D.Pr=new A.lK(D.Pi,null,null,null)})()}
-$__dart_deferred_initializers__["RdNVLlolNzUilK2L+4Mgv2wo9M4="] = $__dart_deferred_initializers__.current
+var y={F:A.u("k<fX>"),h:A.u("k<x>"),x:A.u("k<f>"),u:A.u("k<i>"),q:A.u("f5"),w:A.u("f"),l:A.u("i"),p:A.u("cu<j?>"),b:A.u("@")};(function constants(){D.Pj=new A.kC(57495,!1)
+D.Ps=new A.lK(D.Pj,null,null,null)})()}
+$__dart_deferred_initializers__["gDo93S/W4LpWw7zZCzwvnvReDbA="] = $__dart_deferred_initializers__.current

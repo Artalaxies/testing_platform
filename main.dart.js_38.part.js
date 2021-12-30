@@ -37,7 +37,7 @@ ajh:function ajh(){},
 xq:function xq(d,e){this.c=d
 this.a=e},
 alE:function alE(d){this.a=d},
-nD:function nD(d,e,f,g){var _=this
+m9:function m9(d,e,f,g){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -132,7 +132,7 @@ B.a_8.prototype={
 aV(){this.bB()},
 p(d){this.by(0)},
 M(d,e){var w=null,v=I.aLF(w,N.cN,w,w,w,w,w,w,!0,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,A.N(e).E.c,"Enter a address that you want to send",w,w,w,w,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w),u=A.N(e),t=x.p
-return A.jZ(D.FB,A.a([A.fm(new A.az(O.e7,A.hV(A.d7(A.a([new I.l3(v,E.cq,u.E.c,!0,E.co,E.cp,E.cW,new B.auR(this),w),A.iU(A.aq("Create",w,w,w,A.N(e).E.c,w,w),w,w,w,new B.auS(this),w,w)],t),C.a3,C.jW,C.J),C.n,w,w),w),200,400)],t),C.aY,w,w)}}
+return A.jZ(D.FB,A.a([A.fm(new A.ax(O.e7,A.hV(A.d7(A.a([new I.l3(v,E.cq,u.E.c,!0,E.co,E.cp,E.cW,new B.auR(this),w),A.iU(A.aq("Create",w,w,w,A.N(e).E.c,w,w),w,w,w,new B.auS(this),w,w)],t),C.a3,C.jW,C.J),C.n,w,w),w),200,400)],t),C.aY,w,w)}}
 B.U1.prototype={
 aV(){var w=this,v=B.aHD(w.x),u=x.z,t=v.au(0,new B.ajs(w),u)
 A.dz(w.y,"nftData")
@@ -148,12 +148,13 @@ w=0.1*e.a0(x.w).f.a.a
 v=x.t
 u=$.aIN().au(0,new B.ajq(),v)
 t=x.p
-return new P.j2(r,A.a([A.h2(A.h1(A.a([D.a4O,p,new A.az(D.OD,q,r),new A.az(new A.at(w,0,w,0),A.hq(F.ln(new B.ajr(s),r,v),u,v),r)],t),!0,!0,!0))],t),r)}}
+return new P.j2(r,A.a([A.h2(A.h1(A.a([D.a4P,p,new A.ax(D.OD,q,r),new A.ax(new A.as(w,0,w,0),A.hq(F.ln(new B.ajr(s),r,v),u,v),r),D.a4Q],t),!0,!0,!0))],t),r)}}
 B.xq.prototype={
-M(d,e){var w=A.a([D.a5_.M(0,e)],x.S),v=this.c
-C.c.N(w,new A.ad(v,new B.alE(e),A.aa(v).h("ad<1,d9>")))
-return K.ar9(null,w,null,D.P8,Q.hW)}}
-B.nD.prototype={
+M(d,e){var w=x.S,v=A.a([D.a51.M(0,e)],w),u=this.c
+C.c.N(v,u.length===0?A.a([D.a52.M(0,e)],w):A.a([],w))
+C.c.N(v,new A.ad(u,new B.alE(e),A.aa(u).h("ad<1,d9>")))
+return K.ar9(null,v,null,D.P9,Q.hW)}}
+B.m9.prototype={
 M(d,e){var w=this,v=null,u=w.d?C.jZ:C.n
 return new K.d9(new A.cf(u,v,v,v,v,v,C.O),A.a([A.fm(A.lv(A.aq(w.a,v,v,v,A.N(e).E.b,C.D,v),v,v),50,v),A.aq(w.b,v,v,v,A.N(e).E.b,C.D,v),A.aq(w.c,v,v,v,A.N(e).E.b,C.D,v)],x.p))}}
 B.as5.prototype={
@@ -163,7 +164,7 @@ w=t.gXS(u)
 s=s+A.d(w==null?v:A.uK(J.b4(w),v))+" and gas price "
 u=t.gXT(u)
 return s+A.d(u==null?v:A.uK(J.b4(u),v))}}
-var z=a.updateTypes(["~(iS)","rk(a3)","xq(a3,ce<p<dL>>)","nD(dL)","d9(nD)"])
+var z=a.updateTypes(["~(iS)","rk(a3)","xq(a3,ce<p<dL>>)","m9(dL)","d9(m9)"])
 B.auR.prototype={
 $1(d){var w=this.a
 w.aB(new B.auQ(w,d))},
@@ -210,9 +211,9 @@ m=A.a([A.aq("Properties",j,j,j,A.N(d).E.b,j,j)],n)
 l=x.z
 k=A.ck(J.a_(J.a_(e.gd4(),0),"attributes"),!0,l)
 C.c.N(m,new A.ad(k,new B.ajk(),A.aa(k).h("ad<1,i>")))
-m=A.hV(new A.az(H.at,A.d7(A.a([new A.dW(C.iv,j,j,t,j),s,D.zB,r,D.zC,q,D.a4P,p,D.zC,o,D.a4Q,A.bA(j,A.d7(m,C.ao,C.H,C.J),C.l,C.n,j,j,j,j,j,j,j,j,j)],n),C.ao,C.H,C.J),j),C.n,j,j)
+m=A.hV(new A.ax(H.at,A.d7(A.a([new A.dW(C.iv,j,j,t,j),s,D.zB,r,D.zC,q,D.a4R,p,D.zC,o,D.a4S,A.bA(j,A.d7(m,C.ao,C.H,C.J),C.l,C.n,j,j,j,j,j,j,j,j,j)],n),C.ao,C.H,C.J),j),C.n,j,j)
 o=$.aIN().au(0,new B.ajl(h),l)
-return new A.az(new A.at(u,0,u,0),T.yV(L.E,A.a([v,m,A.hV(new A.az(H.at,A.d7(A.a([A.hq(F.ln(new B.ajm(h,d),j,l),o,l),D.a4R,A.iU(D.ab4,G.fa,50,j,new B.ajn(h,d),j,j),D.zB,A.iU(D.aaX,G.fa,50,j,new B.ajo(),j,j)],n),C.ao,C.H,C.J),j),C.n,j,j)],n),L.kX,C.a8),j)},
+return new A.ax(new A.as(u,0,u,0),T.yV(L.E,A.a([v,m,A.hV(new A.ax(H.at,A.d7(A.a([A.hq(F.ln(new B.ajm(h,d),j,l),o,l),D.a4T,A.iU(D.ab7,G.fa,50,j,new B.ajn(h,d),j,j),D.zB,A.iU(D.ab_,G.fa,50,j,new B.ajo(),j,j)],n),C.ao,C.H,C.J),j),C.n,j,j)],n),L.kX,C.a8),j)},
 $S:457}
 B.aji.prototype={
 $0(){A.u8().au(0,new B.ajf(this.a),x.y)
@@ -274,7 +275,7 @@ $1(d){return!J.e(J.b4(J.a_(J.aWg(d.a),3)),this.a)},
 $S:462}
 B.ajh.prototype={
 $1(d){var w=d.a,v=J.l(w)
-return new B.nD(J.aXC(J.b4(J.a_(v.gl5(w),2)),0,24)+"...",J.b4(J.a_(v.gl5(w),4)),C.e.j(0),!1)},
+return new B.m9(J.aXC(J.b4(J.a_(v.gl5(w),2)),0,24)+"...",J.b4(J.a_(v.gl5(w),4)),C.e.j(0),!1)},
 $S:z+3}
 B.alE.prototype={
 $1(d){return d.M(0,this.a)},
@@ -304,29 +305,32 @@ v(A.e8,[B.auQ,B.auS,B.aji,B.ajn,B.ajo])
 w(B.U1,M.fG)
 v(A.fv,[B.ajp,B.ajm,B.ajr])
 w(B.xq,A.aK)
-w(B.nD,A.x)
+w(B.m9,A.x)
 w(B.as5,A.D6)})()
 A.cc(b.typeUniverse,JSON.parse('{"rk":{"Z":[],"i":[]},"a_8":{"ao":["rk"]},"U1":{"Z":[],"i":[]},"xq":{"aK":[],"i":[]}}'))
 var y={d:"0x9b049dE07099f1FA7B946B65d5D6fb69a5528a22"}
 var x=(function rtii(){var w=A.u
-return{A:w("qY"),m:w("dI"),T:w("k<O<@>>"),s:w("k<f>"),S:w("k<d9>"),p:w("k<i>"),t:w("p<dL>"),j:w("p<@>"),w:w("f2"),u:w("nD"),v:w("xW<qw>"),N:w("f"),l:w("uu"),y:w("C"),z:w("@")}})();(function constants(){D.FB=new A.hj(0,0)
-D.OD=new A.at(0,100,0,30)
-D.P8=new W.Cy(100)
-D.OK=new A.at(0,5,0,0)
-D.zC=new A.az(D.OK,null,null)
-D.OE=new A.at(0,10,0,0)
-D.zB=new A.az(D.OE,null,null)
-D.OH=new A.at(0,15,0,0)
-D.a4P=new A.az(D.OH,null,null)
-D.OI=new A.at(0,20,0,0)
-D.a4R=new A.az(D.OI,null,null)
-D.OF=new A.at(0,10,0,10)
-D.a4Q=new A.az(D.OF,null,null)
-D.a4O=new A.az(H.at,null,null)
-D.a5_=new B.nD("Merchant Name","Dericvate Takens Own","Products Created",!0)
-D.aaX=new A.cB("Apply for producing this Derivative",null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-D.ab4=new A.cB("Create Derivative Token",null,null,null,null,null,null,null,null,null,null,null,null,null,null)})();(function lazyInitializers(){var w=a.lazyFinal
+return{A:w("qY"),m:w("dI"),T:w("k<O<@>>"),s:w("k<f>"),S:w("k<d9>"),p:w("k<i>"),t:w("p<dL>"),j:w("p<@>"),w:w("f2"),u:w("m9"),v:w("xW<qw>"),N:w("f"),l:w("uu"),y:w("C"),z:w("@")}})();(function constants(){D.FB=new A.hj(0,0)
+D.OD=new A.as(0,100,0,30)
+D.P9=new W.Cy(100)
+D.OK=new A.as(0,5,0,0)
+D.zC=new A.ax(D.OK,null,null)
+D.OE=new A.as(0,10,0,0)
+D.zB=new A.ax(D.OE,null,null)
+D.OH=new A.as(0,15,0,0)
+D.a4R=new A.ax(D.OH,null,null)
+D.OI=new A.as(0,20,0,0)
+D.a4T=new A.ax(D.OI,null,null)
+D.OF=new A.as(0,10,0,10)
+D.a4S=new A.ax(D.OF,null,null)
+D.a4P=new A.ax(H.at,null,null)
+D.OU=new A.as(200,200,200,200)
+D.a4Q=new A.ax(D.OU,null,null)
+D.a51=new B.m9("Merchant Name","Dericvate Takens Own","Products Created",!0)
+D.a52=new B.m9("","Empty","",!1)
+D.ab_=new A.cB("Apply for producing this Derivative",null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+D.ab7=new A.cB("Create Derivative Token",null,null,null,null,null,null,null,null,null,null,null,null,null,null)})();(function lazyInitializers(){var w=a.lazyFinal
 w($,"bbz","aSB",()=>A.Hj(2))
 w($,"bbv","aSz",()=>A.aMs(8))
 w($,"bdV","aIN",()=>B.b7a())})()}
-$__dart_deferred_initializers__["/pPClfViLBg5Q9AorVs2czzsqGg="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["8e/h3YIGz+WMiKrYMyyOF3rlhV4="] = $__dart_deferred_initializers__.current

@@ -30,11 +30,11 @@ H=c[71]
 D=c[51]
 I=c[30]
 C.qN.prototype={
-M(d,e){var x,w,v=this,u=null,t=B.aq("Add Product",u,u,u,B.N(e).E.a,F.D,u),s=v.x,r=y.h,q=y.d,p=q.h("ax.E"),o=y.g
-s=K.aEV(A.lT,8,A.ab2,u,B.am(new B.ad(B.a(["1 Day","3 Days","4 Days","7 Days","14 Days","30 Days"],r),new C.a7u(),q),!0,p),new C.a7v(v),u,u,s,o)
+M(d,e){var x,w,v=this,u=null,t=B.aq("Add Product",u,u,u,B.N(e).E.a,F.D,u),s=v.x,r=y.h,q=y.d,p=q.h("ay.E"),o=y.g
+s=K.aEV(A.lT,8,A.ab5,u,B.am(new B.ad(B.a(["1 Day","3 Days","4 Days","7 Days","14 Days","30 Days"],r),new C.a7u(),q),!0,p),new C.a7v(v),u,u,s,o)
 x=v.r
 w=y.e
-return new M.j2(u,B.a([B.h2(B.h1(B.a([new B.az(G.at,t,u),A.k7,A.a4K,A.a4J,A.a4N,A.k7,A.k7,new B.az(new B.at(30,30,30,30),s,u),A.a4T,new B.az(new B.at(30,30,30,30),K.aEV(A.lT,8,A.ab3,u,B.am(new B.ad(B.a(["USD","LBS","CNY"],r),new C.a7w(),q),!0,p),new C.a7x(v),u,u,x,o),u)],w),!0,!0,!0))],w),u)}}
+return new M.j2(u,B.a([B.h2(B.h1(B.a([new B.ax(G.at,t,u),A.k7,A.a4L,A.a4K,A.a4O,A.k7,A.k7,new B.ax(new B.as(30,30,30,30),s,u),A.a4V,new B.ax(new B.as(30,30,30,30),K.aEV(A.lT,8,A.ab6,u,B.am(new B.ad(B.a(["USD","LBS","CNY"],r),new C.a7w(),q),!0,p),new C.a7x(v),u,u,x,o),u)],w),!0,!0,!0))],w),u)}}
 var z=a.updateTypes(["jI<f>(f)"])
 C.a7v.prototype={
 $1(d){var x=this.a
@@ -65,26 +65,26 @@ B.cc(b.typeUniverse,JSON.parse('{"qN":{"Z":[],"i":[]}}'))
 var y={h:B.u("k<f>"),e:B.u("k<i>"),d:B.u("ad<f,jI<f>>"),g:B.u("f")};(function constants(){A.hQ=new B.cI(10,10)
 A.lT=new B.d5(A.hQ,A.hQ,A.hQ,A.hQ)
 A.eQ=new B.B(!0,F.jZ,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-A.PD=new E.lO(null,null,null,"Subtitle",A.eQ,null,null,null,null,"Enter Title Name",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
-A.a7r=new E.l3(A.PD,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
-A.P4=new I.na(1,F.cD,A.a7r,null)
-A.a4J=new B.az(G.at,A.P4,null)
-A.PE=new E.lO(null,null,null,"Title",A.eQ,null,null,null,null,"Enter Title",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
-A.a7m=new E.l3(A.PE,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
-A.P2=new I.na(1,F.cD,A.a7m,null)
-A.a4K=new B.az(G.at,A.P2,null)
-A.PF=new E.lO(null,null,null,"Tags",A.eQ,null,null,null,null,"Enter Tags, hit enter to select add tag",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
-A.a7n=new E.l3(A.PF,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
-A.P5=new I.na(1,F.cD,A.a7n,null)
-A.a4N=new B.az(G.at,A.P5,null)
-A.PB=new E.lO(null,null,null,"Template Name",A.eQ,null,null,null,null,"Enter Template Name",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
-A.a7o=new E.l3(A.PB,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
-A.P1=new I.na(1,F.cD,A.a7o,null)
-A.k7=new B.az(G.at,A.P1,null)
-A.PC=new E.lO(null,null,null,"Price",A.eQ,null,null,null,null,"100",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
-A.a7q=new E.l3(A.PC,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
-A.P3=new I.na(1,F.cD,A.a7q,null)
-A.a4T=new B.az(G.at,A.P3,null)
-A.ab3=new B.cB("Select Currency",null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-A.ab2=new B.cB("Select Duration",null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["m+ZoTj+P7HLmblE1ITjY2CZTQLk="] = $__dart_deferred_initializers__.current
+A.PE=new E.lO(null,null,null,"Subtitle",A.eQ,null,null,null,null,"Enter Title Name",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
+A.a7u=new E.l3(A.PE,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
+A.P5=new I.nb(1,F.cD,A.a7u,null)
+A.a4K=new B.ax(G.at,A.P5,null)
+A.PF=new E.lO(null,null,null,"Title",A.eQ,null,null,null,null,"Enter Title",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
+A.a7p=new E.l3(A.PF,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
+A.P3=new I.nb(1,F.cD,A.a7p,null)
+A.a4L=new B.ax(G.at,A.P3,null)
+A.PG=new E.lO(null,null,null,"Tags",A.eQ,null,null,null,null,"Enter Tags, hit enter to select add tag",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
+A.a7q=new E.l3(A.PG,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
+A.P6=new I.nb(1,F.cD,A.a7q,null)
+A.a4O=new B.ax(G.at,A.P6,null)
+A.PC=new E.lO(null,null,null,"Template Name",A.eQ,null,null,null,null,"Enter Template Name",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
+A.a7r=new E.l3(A.PC,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
+A.P2=new I.nb(1,F.cD,A.a7r,null)
+A.k7=new B.ax(G.at,A.P2,null)
+A.PD=new E.lO(null,null,null,"Price",A.eQ,null,null,null,null,"100",null,null,null,null,null,null,null,null,null,!1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,H.cN,!0,null,null,null)
+A.a7t=new E.l3(A.PD,D.cq,null,!1,D.co,D.cp,D.cW,null,null)
+A.P4=new I.nb(1,F.cD,A.a7t,null)
+A.a4V=new B.ax(G.at,A.P4,null)
+A.ab6=new B.cB("Select Currency",null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+A.ab5=new B.cB("Select Duration",null,null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["TKbxxdz50VI8X7mPBKZFGTxDYME="] = $__dart_deferred_initializers__.current

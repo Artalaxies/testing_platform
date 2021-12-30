@@ -52,7 +52,7 @@ x=y.h
 w=A.aq(A.eH("Marketplace",o,"marketplace",A.a([],x),o),o,o,o,A.N(e).E.a,C.D,o)
 A.dr(e,C.ag,m).toString
 v=y.u
-w=A.h2(A.h1(A.a([new A.az(G.n6,w,o),A.aq(A.eH("\nNFT Derivative MarketPlace \nDiscover Licenses and Merchandise\n",o,"header_description",A.a([],x),o),o,o,o,A.N(e).E.b,C.D,o)],v),!0,!0,!0))
+w=A.h2(A.h1(A.a([new A.ax(G.n6,w,o),A.aq(A.eH("\nNFT Derivative MarketPlace \nDiscover Licenses and Merchandise\n",o,"header_description",A.a([],x),o),o,o,o,A.N(e).E.b,C.D,o)],v),!0,!0,!0))
 u=n<0
 t=u?0:40
 s=n>0?n:1
@@ -60,10 +60,10 @@ r=u?0:40
 u=u?0:40
 q=this.r
 p=A.aa(q).h("ad<1,fg<cs>>")
-r=H.aNx(0.54,A.am(new A.ad(q,new B.aie(this),p),!0,p.h("ax.E")),s,u,r)
+r=H.aNx(0.54,A.am(new A.ad(q,new B.aie(this),p),!0,p.h("ay.E")),s,u,r)
 A.dr(e,C.ag,m).toString
-return new I.j2(o,A.a([w,new A.G4(new A.at(t,t,t,t),r,o),A.h2(A.h1(A.a([A.iU(A.aq(A.eH("Show More",o,"show_more",A.a([],x),o),o,o,o,o,o,o),o,o,o,new B.aif(this),o,o)],v),!0,!0,!0))],v),o)}}
-var z=a.updateTypes(["~(p<O<cs>>)","fg<cs>(O<cs>)","fg<@>(a3,ce<cs>)","nv(a3,ce<@>)"])
+return new I.j2(o,A.a([w,new A.G4(new A.as(t,t,t,t),r,o),A.h2(A.h1(A.a([A.iU(A.aq(A.eH("Show More",o,"show_more",A.a([],x),o),o,o,o,o,o,o),o,o,o,new B.aif(this),o,o)],v),!0,!0,!0))],v),o)}}
+var z=a.updateTypes(["~(p<O<cs>>)","fg<cs>(O<cs>)","fg<@>(a3,ce<cs>)","nw(a3,ce<@>)"])
 B.aia.prototype={
 $1(d){return this.XH(d)},
 XH(d){var x=0,w=A.W(y.v),v,u=this
@@ -102,7 +102,7 @@ B.aib.prototype={
 $2(d,e){var x,w=null
 A.b(this.a.c,"windowLogger").ax(C.cI,C.b.Z("get json: ",J.b4(e.gd4())),w,w)
 x=this.b
-return new D.nv(L.aFm(J.aK0(J.b4(J.a_(e.gd4(),"image")),"ipfs://","https://cloudflare-ipfs.com/ipfs/"),w,w),J.a_(e.gd4(),"name"),J.a_(e.gd4(),"description"),x.gd4().a,x.gd4().b,w)},
+return new D.nw(L.aFm(J.aK0(J.b4(J.a_(e.gd4(),"image")),"ipfs://","https://cloudflare-ipfs.com/ipfs/"),w,w),J.a_(e.gd4(),"name"),J.a_(e.gd4(),"description"),x.gd4().a,x.gd4().b,w)},
 $S:z+3}
 B.aif.prototype={
 $0(){var x=this.a,w=x.x
@@ -119,4 +119,4 @@ w(A.e8,[B.ai8,B.aig,B.aif,B.aic])
 w(A.fv,[B.aid,B.aib])})()
 A.cc(b.typeUniverse,JSON.parse('{"tf":{"Z":[],"i":[]}}'))
 var y={l:A.u("k<O<cs>>"),h:A.u("k<x>"),u:A.u("k<i>"),x:A.u("f2"),C:A.u("cs"),q:A.u("f5"),b:A.u("@"),v:A.u("~")}}
-$__dart_deferred_initializers__["aMhyF4Mm/SxN0kt0+RxHM6yjey8="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["YmB/CuQB0R1MXYtbIK3n3Rf251M="] = $__dart_deferred_initializers__.current
