@@ -30,7 +30,7 @@ Our platform tech stack:
 ### Demo link
 
 (Video Demo)
-[]()
+[https://www.youtube.com/watch?v=9L1D5cHrbpg](https://www.youtube.com/watch?v=9L1D5cHrbpg)
 
 (Live Demo)
 [https://testnets.artalaxies.ml/](https://testnets.artalaxies.ml/)
