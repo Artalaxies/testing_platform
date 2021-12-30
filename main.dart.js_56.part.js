@@ -28,7 +28,7 @@ M(d,e){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h=null,g="Merchant Name",f="0x0000000
 A.dr(e,D.ag,y.a).toString
 x=A.aq(A.eH("Merchants",h,"merchants",A.a([],y.h),h),h,h,h,A.N(e).E.a,D.D,h)
 w=A.aq("Become a merchant with Artalizeies to sell your shit!",h,h,h,A.N(e).E.z,D.D,h)
-v=A.mY(F.aEY(G.F_,new B.aiz(),A.Bg(h,h,new H.cu(D.cg,y.p),h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h)),h,h)
+v=A.lv(F.aEY(G.F_,new B.aiz(),A.Bg(h,h,new H.cu(D.ch,y.p),h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h)),h,h)
 u=y.k
 t=e.a0(u).f
 s=e.a0(u).f
@@ -72,4 +72,4 @@ C.Og=new A.jG(5,null,D.ae,null)
 C.iT=new A.jG(20,null,D.ae,null)
 C.Oh=new A.jG(50,null,D.ae,null)
 C.Oi=new A.jG(100,null,D.ae,null)})()}
-$__dart_deferred_initializers__["dNpJrOQVLYQNJGMlOlXNbVsywYA="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["qX9+dra4ZzEqsD6eTA15PrR/Ix8="] = $__dart_deferred_initializers__.current

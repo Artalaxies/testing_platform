@@ -35,7 +35,7 @@ J=c[1]
 K=c[43]
 B.rm.prototype={
 aV(){this.wi()},
-M(d,e){var x,w,v,u,t,s,r,q,p,o,n=null,m=$.hS(),l=m.c!=null,k=l?C.a40:C.cg
+M(d,e){var x,w,v,u,t,s,r,q,p,o,n=null,m=$.hS(),l=m.c!=null,k=l?C.a40:C.ch
 k=A.iU(A.aq(l?"Disconnect your wallet":"Connect to Wallet",n,n,n,n,n,n),k,n,n,new B.aaf(),n,n)
 x=m.e
 l=y.e
@@ -46,7 +46,7 @@ v=A.aq("Balance",n,n,n,A.N(e).E.d,n,n)
 u=A.j9(A.a([A.aq(m.b.c,n,n,n,n,n,n)],l),C.a3,C.H,C.J,n)
 t=new A.dB(A.N(e).cx,2,C.aS)
 s=m.b.c
-s=A.a([A.mY(A.aq(s,n,n,n,n,n,n),n,n),A.mY(A.aq(s,n,n,n,n,n,n),n,n)],l)
+s=A.a([A.lv(A.aq(s,n,n,n,n,n,n),n,n),A.lv(A.aq(s,n,n,n,n,n,n),n,n)],l)
 r=m.re()
 q=this.r
 p=y.c
@@ -60,7 +60,7 @@ return new A.az(G.n1,A.d7(A.a([x,k,w,v,H.fh,u,H.fh,new A.az(N.e7,E.ar9(new O.Gt(
 var z=a.updateTypes([])
 B.aaf.prototype={
 $0(){var x=$.hS()
-if(x.c!=null)x.yG(0)
+if(x.c!=null)x.yH(0)
 else x.pO(0)},
 $S:0}
 B.aag.prototype={
@@ -124,4 +124,4 @@ x(B.aaf,A.e8)
 w(A.fv,[B.aag,B.aae,B.aah,B.aad,B.aai,B.aac,B.aaj,B.aab])})()
 A.cc(b.typeUniverse,JSON.parse('{"rm":{"Z":[],"i":[]}}'))
 var y={c:A.u("ke"),h:A.u("k<f>"),m:A.u("k<d9>"),e:A.u("k<i>")}}
-$__dart_deferred_initializers__["t/7r9X2zjN8dZZ9gcNMUA2PPxUc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["tFCHa89wUT0qQmHVMW/oj9T9WiY="] = $__dart_deferred_initializers__.current

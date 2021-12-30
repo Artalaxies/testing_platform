@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var D={
-aXM(){var x=null,w=new D.qM(M.b1U(x,x,x,x,x,!1,x,x,x,x,B.cB,x,x,x,x,x,x,x),F.lb(x,x),x)
+aXM(){var x=null,w=new D.qM(M.b1U(x,x,x,x,x,!1,x,x,x,x,B.cC,x,x,x,x,x,x,x),F.lb(x,x),x)
 w.is(x,x,x,x,!0)
 return w},
 qM:function qM(d,e,f){var _=this
@@ -32,13 +32,13 @@ v=A.aq(A.eH("Artalaxies is a decentralized marketplace that focuses on providing
 u=y.e
 t=A.d7(A.a([A.bA(n,n,B.l,B.p,n,n,n,5,n,n,n,n,2),A.bA(n,C.fq,B.l,n,n,new A.cf(C.k_,n,n,A.r3(50),n,n,B.O),n,n,new A.at(5,0,5,0),new A.at(0,0,0,0),n,n,n),A.bA(n,n,B.l,B.p,n,n,n,120,n,n,n,n,2)],u),B.a3,B.H,B.J)
 s=A.N(e)
-s=A.j9(A.a([t,E.Qe(A.bA(n,new A.az(B.b3,A.d7(C.U7,B.ao,B.H,B.J),n),B.l,n,n,new A.cf(s.rx,n,n,n,C.jr,n,B.O),n,100,B.cB,n,n,n,n))],u),B.a3,B.H,B.J,n)
+s=A.j9(A.a([t,E.Qe(A.bA(n,new A.az(B.b3,A.d7(C.U7,B.ao,B.H,B.J),n),B.l,n,n,new A.cf(s.rx,n,n,n,C.jr,n,B.O),n,100,B.cC,n,n,n,n))],u),B.a3,B.H,B.J,n)
 t=A.d7(A.a([A.bA(n,n,B.l,B.p,n,n,n,5,n,n,n,n,2),A.bA(n,C.fq,B.l,n,n,new A.cf(C.k_,n,n,A.r3(50),n,n,B.O),n,n,C.OX,B.G,n,n,n),A.bA(n,n,B.l,B.p,n,n,n,120,n,n,n,n,2)],u),B.a3,B.H,B.J)
 r=A.N(e)
-r=A.j9(A.a([t,E.Qe(A.bA(n,new A.az(B.b3,A.d7(C.Vr,B.ao,B.H,B.J),n),B.l,n,n,new A.cf(r.rx,n,n,n,C.jr,n,B.O),n,100,B.cB,n,n,n,n))],u),B.a3,B.H,B.J,n)
+r=A.j9(A.a([t,E.Qe(A.bA(n,new A.az(B.b3,A.d7(C.Vr,B.ao,B.H,B.J),n),B.l,n,n,new A.cf(r.rx,n,n,n,C.jr,n,B.O),n,100,B.cC,n,n,n,n))],u),B.a3,B.H,B.J,n)
 t=A.d7(A.a([A.bA(n,n,B.l,B.p,n,n,n,5,n,n,n,n,2),A.bA(n,C.fq,B.l,n,n,new A.cf(C.k_,n,n,A.r3(50),n,n,B.O),n,n,new A.at(5,0,5,0),new A.at(0,0,0,0),n,n,n),A.bA(n,n,B.l,B.p,n,n,n,120,n,n,n,n,2)],u),B.a3,B.H,B.J)
 q=A.N(e)
-q=A.j9(A.a([t,E.Qe(A.bA(n,new A.az(B.b3,A.d7(C.Un,B.ao,B.H,B.J),n),B.l,n,n,new A.cf(q.rx,n,n,n,C.jr,n,B.O),n,100,B.cB,n,n,n,n))],u),B.a3,B.H,B.J,n)
+q=A.j9(A.a([t,E.Qe(A.bA(n,new A.az(B.b3,A.d7(C.Un,B.ao,B.H,B.J),n),B.l,n,n,new A.cf(q.rx,n,n,n,C.jr,n,B.O),n,100,B.cC,n,n,n,n))],u),B.a3,B.H,B.J,n)
 t=A.bA(n,n,B.l,B.p,n,n,n,5,n,n,n,n,2)
 p=A.N(e).rx.a
 p=A.d7(A.a([t,A.bA(n,C.fq,B.l,n,n,new A.cf(A.aG(p>>>24&255,50,p>>>8&255,p&255),n,n,A.r3(50),n,n,B.O),n,n,new A.at(5,0,5,0),new A.at(0,0,0,0),n,n,n),A.bA(n,n,B.l,B.p,n,n,n,120,n,n,n,n,2)],u),B.a3,B.H,B.J)
@@ -58,10 +58,10 @@ var y={c:A.u("k<bD>"),h:A.u("k<x>"),e:A.u("k<i>"),a:A.u("f5")};(function constan
 C.ON=new A.at(10,30,10,30)
 C.OX=new A.at(5,0,5,0)
 C.Ph=new A.kC(57399,!1)
-C.fq=new A.lJ(C.Ph,null,B.n,null)
+C.fq=new A.lK(C.Ph,null,B.n,null)
 C.GH=new A.bD(0,B.K,B.iJ,B.i,10)
 C.jr=A.a(x([C.GH]),y.c)
-C.i_=new A.B(!0,null,null,null,null,null,20,B.c0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.i_=new A.B(!0,null,null,null,null,null,20,B.c1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.aaY=new A.cB("Stage 4",null,C.i_,null,null,null,null,null,null,null,null,null,null,null,null)
 C.aaW=new A.cB("Create the license system for art designers to contribute their NFT's permission to any customers.",null,K.EV,null,null,null,null,null,null,null,null,null,null,null,null)
 C.U_=A.a(x([C.aaY,C.aaW]),y.e)
@@ -91,4 +91,4 @@ C.Oj=new A.jG(null,5,null,null)
 C.a4I=new A.az(L.n0,C.Oj,null)
 C.OC=new A.at(0,100,0,0)
 C.zD=new A.az(C.OC,null,null)})()}
-$__dart_deferred_initializers__["X54Br4hoOpTev6lwEqPfsZy89hg="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["5NzZWdPQ/IzT/7UjTof2h6gFMGE="] = $__dart_deferred_initializers__.current
