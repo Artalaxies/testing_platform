@@ -53,17 +53,20 @@ Our team consisted of students of UC Berkeley, and a CEO of a scientific researc
 [Jialin Li] Solution Architect, Smart Contract Developer, Project Management
 - Develop Smart contracts with Solidity programming language, deploy and test on Rinkeby Testnet.
 - Managed and design team workflow for Artalaxies Marketplace.
-[Antonio Mendieta] Product Designer, UI Designer, Video Creator
+
+[Rosalia Mendieta] Product Designer, UI Designer, Video Creator
 - Designed the user interface and flow for all of the pages
 - Created the animated background for the homepage
 - Created graphics for the prototype
 - Created demo video
+
 [Wenjie Ye] Fullstack developer
 - Implemented NFT detail page and NFT card, home page
 - Built serverless functions to authenticate user using metamask
-[ZIhao Yang] Frontend Developer
+
+[Zihao Yang] Frontend Developer
 - Implemented merchant page, product detail
-[Harry Yang] Frontend developer
 - Implemented NFT detail page
+
 [Junyi Ye] Business Planner
 - Business Planning

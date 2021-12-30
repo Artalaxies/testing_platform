@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A={
-aLP(d){var y=new ethers.providers.JsonRpcProvider(d)
+aLR(d){var y=new ethers.providers.JsonRpcProvider(d)
 return new A.Rq(d,y)},
 Rq:function Rq(d,e){this.c=d
 this.a=e}},B,C
@@ -11,9 +11,9 @@ C=c[76]
 A.Rq.prototype={
 j(d){return"JsonRpcProvider: "+this.c}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.Rq,B.xq)})()
-B.cc(b.typeUniverse,JSON.parse('{"Rq":{"xq":["zF"]}}'));(function constants(){C.iK=new B.j(4278206324)})();(function lazyInitializers(){var y=a.lazyFinal
-y($,"bee","aIV",()=>A.aLP($.hS().b.b[1]))
-y($,"bcP","KY",()=>B.dD(B.P9("ERC721 Contract")))
-y($,"bd7","aIz",()=>B.xT())})()}
-$__dart_deferred_initializers__["o5KyItkT7Ao2v/KGsPDFwufjgbs="] = $__dart_deferred_initializers__.current
+y(A.Rq,B.xr)})()
+B.cc(b.typeUniverse,JSON.parse('{"Rq":{"xr":["zF"]}}'));(function constants(){C.fa=new B.j(4278206324)})();(function lazyInitializers(){var y=a.lazyFinal
+y($,"beg","aIX",()=>A.aLR($.hS().b.b[1]))
+y($,"bcR","KY",()=>B.dD(B.P9("ERC721 Contract")))
+y($,"bd9","aIB",()=>B.u8())})()}
+$__dart_deferred_initializers__["ei7b3F/AjWvowhnHyTWdhUlztvc="] = $__dart_deferred_initializers__.current
