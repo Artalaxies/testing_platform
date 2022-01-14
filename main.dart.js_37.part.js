@@ -208,12 +208,14 @@ p=A.ap("Description",j,j,j,A.N(d).E.b,j,j)
 o=A.ap(J.b4(J.a_(J.a_(e.gcO(),0),"description")),j,j,j,A.N(d).E.c,j,j)
 n=x.p
 m=A.a([A.ap("Properties",j,j,j,A.N(d).E.b,j,j)],n)
-l=x.z
-k=A.ck(J.a_(J.a_(e.gcO(),0),"attributes"),!0,l)
-C.c.N(m,new A.ad(k,new B.ajm(),A.aa(k).h("ad<1,i>")))
+l=J.a_(J.a_(e.gcO(),0),"attributes")
+if(l==null)l=[]
+k=x.z
+l=A.ck(l,!0,k)
+C.c.N(m,new A.ad(l,new B.ajm(),A.aa(l).h("ad<1,i>")))
 m=A.hV(new A.ax(H.at,A.d7(A.a([new A.dW(C.iv,j,j,t,j),s,D.zC,r,D.zD,q,D.a4R,p,D.zD,o,D.a4S,A.bw(j,A.d7(m,C.ao,C.H,C.J),C.l,C.m,j,j,j,j,j,j,j,j,j)],n),C.ao,C.H,C.J),j),C.m,j,j)
-o=$.aIO().au(0,new B.ajn(h),l)
-return new A.ax(new A.as(u,0,u,0),U.yW(L.E,A.a([v,m,A.hV(new A.ax(H.at,A.d7(A.a([A.hq(F.ln(new B.ajo(h,d),j,l),o,l),D.a4T,A.iU(D.ab7,G.fa,50,j,new B.ajp(h,d),j,j),D.zC,A.iU(D.ab_,G.fa,50,j,new B.ajq(d),j,j)],n),C.ao,C.H,C.J),j),C.m,j,j)],n),L.kX,C.a8),j)},
+o=$.aIO().au(0,new B.ajn(h),k)
+return new A.ax(new A.as(u,0,u,0),U.yW(L.E,A.a([v,m,A.hV(new A.ax(H.at,A.d7(A.a([A.hq(F.ln(new B.ajo(h,d),j,k),o,k),D.a4T,A.iU(D.ab7,G.fa,50,j,new B.ajp(h,d),j,j),D.zC,A.iU(D.ab_,G.fa,50,j,new B.ajq(d),j,j)],n),C.ao,C.H,C.J),j),C.m,j,j)],n),L.kX,C.a8),j)},
 $S:457}
 B.ajk.prototype={
 $0(){A.u8().au(0,new B.ajh(this.a),x.y)
@@ -339,4 +341,4 @@ D.ab7=new A.cB("Create Derivative Token",null,null,null,null,null,null,null,null
 w($,"bbA","aSC",()=>A.Hj(2))
 w($,"bbw","aSA",()=>A.aMt(8))
 w($,"bdW","aIO",()=>B.b7b())})()}
-$__dart_deferred_initializers__["v/jOxKirXa75A4bXXo9wUbOk47I="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["zGDkiKsFe1vCRiBWQ9ODOCKfnzk="] = $__dart_deferred_initializers__.current
