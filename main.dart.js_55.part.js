@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-b00(){var x=null,w=new B.tp(E.lb(x,x),x)
+b03(){var x=null,w=new B.tp(E.lb(x,x),x)
 w.is(x,x,x,x,x)
 return w},
 tp:function tp(d,e){this.c=$
@@ -28,7 +28,7 @@ M(d,e){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h=null,g="Merchant Name",f="0x0000000
 A.dr(e,D.ag,y.a).toString
 x=A.ap(A.eH("Merchants",h,"merchants",A.a([],y.h),h),h,h,h,A.N(e).E.a,D.D,h)
 w=A.ap("Become a merchant with Artalizeies to sell your shit!",h,h,h,A.N(e).E.z,D.D,h)
-v=A.lv(F.aEZ(G.F0,new B.aiA(),A.Bh(h,h,new H.cu(D.ch,y.p),h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h)),h,h)
+v=A.lv(F.aF2(G.F0,new B.aiA(),A.Bi(h,h,new H.cu(D.ch,y.p),h,h,h,h,h,h,h,h,h,h,h,h,h,h,h,h)),h,h)
 u=y.k
 t=e.a0(u).f
 s=e.a0(u).f
@@ -49,27 +49,27 @@ i=y.e
 return new I.j2(h,A.a([A.h2(A.h1(A.a([new A.ax(K.at,x,h),C.Oh,w,C.Oi,v,C.Oj,new A.ax(new A.as(t.a.a/14,0,s.a.a/14,0),r,h),C.iT,new A.ax(new A.as(q.a.a/14,0,p.a.a/14,0),o,h),C.iT,new A.ax(new A.as(n.a.a/14,0,m.a.a/14,0),l,h),C.iT,new A.ax(new A.as(k.a.a/14,0,u.a.a/14,0),A.hV(A.rY(!1,h,!0,A.td(h,!1,C.f4,h,new A.dW(D.Y,h,h,A.ap(f,h,h,h,A.N(e).E.z,h,h),h),new A.dW(D.bW,h,h,j,h),h),h,!0,h,h,h,h,h,h,h,h,h,new B.aiE(),h,h,h),h,h,h),h)],i),!0,!0,!0))],i),h)}}
 var z=a.updateTypes([])
 B.aiA.prototype={
-$0(){A.fr("merchantapplication")},
+$0(){A.fs("merchantapplication")},
 $S:0}
 B.aiB.prototype={
-$0(){A.fr("merchantdetail")},
+$0(){A.fs("merchantdetail")},
 $S:0}
 B.aiC.prototype={
-$0(){A.fr("merchantdetail")},
+$0(){A.fs("merchantdetail")},
 $S:0}
 B.aiD.prototype={
-$0(){A.fr("merchantdetail")},
+$0(){A.fs("merchantdetail")},
 $S:0}
 B.aiE.prototype={
-$0(){A.fr("merchantdetail")},
+$0(){A.fs("merchantdetail")},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.tp,E.fG)
-w(A.e8,[B.aiA,B.aiB,B.aiC,B.aiD,B.aiE])})()
-A.ci(b.typeUniverse,JSON.parse('{"tp":{"Z":[],"i":[]}}'))
-var y={h:A.u("k<x>"),e:A.u("k<i>"),k:A.u("f2"),a:A.u("f5"),p:A.u("cu<j?>")};(function constants(){C.FO=new A.qV("images/9(2).png",null,null)
-C.f4=new L.Bo(null,null,C.FO,50,null,null,null)
-C.Oh=new A.jG(5,null,D.ae,null)
-C.iT=new A.jG(20,null,D.ae,null)
-C.Oi=new A.jG(50,null,D.ae,null)
-C.Oj=new A.jG(100,null,D.ae,null)})()}
-$__dart_deferred_initializers__["jGf4G2lXSL/kABApSioQ+cRHDyA="] = $__dart_deferred_initializers__.current
+w(A.dX,[B.aiA,B.aiB,B.aiC,B.aiD,B.aiE])})()
+A.cd(b.typeUniverse,JSON.parse('{"tp":{"Z":[],"i":[]}}'))
+var y={h:A.u("k<x>"),e:A.u("k<i>"),k:A.u("f3"),a:A.u("f6"),p:A.u("cu<j?>")};(function constants(){C.FO=new A.qV("images/9(2).png",null,null)
+C.f4=new L.Bp(null,null,C.FO,50,null,null,null)
+C.Oh=new A.jH(5,null,D.ae,null)
+C.iT=new A.jH(20,null,D.ae,null)
+C.Oi=new A.jH(50,null,D.ae,null)
+C.Oj=new A.jH(100,null,D.ae,null)})()}
+$__dart_deferred_initializers__["I3qFWCTwjas17dSIRIE//FC/SR4="] = $__dart_deferred_initializers__.current

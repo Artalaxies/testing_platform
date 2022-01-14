@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-b0_(){var x=null,w=new B.to(H.lb(x,x),x)
+b02(){var x=null,w=new B.to(H.lb(x,x),x)
 w.is(x,x,x,x,x)
 return w},
 to:function to(d,e){this.c=$
@@ -35,18 +35,18 @@ v=y.e
 w=A.h2(A.h1(A.a([new A.ax(I.at,x,t),E.iS,K.yW(F.i8,A.a([new A.ax(new A.as(w,0,w,0),A.iO(s,400,t,400),t),A.d7(A.a([A.ap("Merchant Name",t,t,t,A.N(e).E.a,t,t),A.ap("Derivate Tokens Own: 10000 ",t,t,t,A.N(e).E.a,t,t),A.ap("Producced: 100 ",t,t,t,A.N(e).E.a,t,t),A.ap("Sold: 100 ",t,t,t,A.N(e).E.a,t,t)],v),C.ao,C.H,C.J)],v),F.i9,C.a8),E.iS,new A.ax(D.P_,A.ap("Products",t,t,t,A.N(e).E.a,C.D,t),t)],v),!0,!0,!0))
 x=C.d.cb($.hB.a,300)
 u=A.WD(e)?40:0
-return new L.j2(t,A.a([w,M.aNy(1,A.a([new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t)],v),x,0,u)],v),t)}}
+return new L.j2(t,A.a([w,M.aND(1,A.a([new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t),new B.nE(A.iO(s,t,t,t),r,q,t)],v),x,0,u)],v),t)}}
 B.nE.prototype={
 M(d,e){var x=null
 return A.iU(A.hV(A.bw(x,A.d7(A.a([this.c,A.ap(this.d,x,x,x,A.N(e).E.b,C.D,x),new A.dW(N.lu,x,x,new A.ax(new A.as(20,20,0,0),A.ap(this.e,x,x,x,A.N(e).E.c,C.aZ,x),x),x)],y.e),C.a3,C.jW,C.J),C.l,x,D.Gd,x,x,x,x,x,x,x,x),G.mH,x,G.ke),x,x,x,new B.alH(),x,x)}}
 var z=a.updateTypes([])
 B.alH.prototype={
-$0(){A.fr("productdetail")},
+$0(){A.fs("productdetail")},
 $S:0};(function inheritance(){var x=a.inherit
 x(B.to,H.fG)
 x(B.nE,A.aK)
-x(B.alH,A.e8)})()
-A.ci(b.typeUniverse,JSON.parse('{"to":{"Z":[],"i":[]},"nE":{"aK":[],"i":[]}}'))
-var y={h:A.u("k<x>"),e:A.u("k<i>"),a:A.u("f5")};(function constants(){D.Gd=new A.au(0,200,0,400)
+x(B.alH,A.dX)})()
+A.cd(b.typeUniverse,JSON.parse('{"to":{"Z":[],"i":[]},"nE":{"aK":[],"i":[]}}'))
+var y={h:A.u("k<x>"),e:A.u("k<i>"),a:A.u("f6")};(function constants(){D.Gd=new A.au(0,200,0,400)
 D.P_=new A.as(80,80,80,80)})()}
-$__dart_deferred_initializers__["1dime7hVJP7zNWEk//x5xqChsqw="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["KdCPJG9CufXA7TjdSXYHyXajrOU="] = $__dart_deferred_initializers__.current
