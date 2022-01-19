@@ -2,7 +2,7 @@
 
 ### Product Direction
 
-Our team decided to focus on Track 3, the DAO toolkit. For our project we specifically explored developing a platform for community management and e-commerce to take place. In addition, we also explored the idea of how to bring NFTs into the physical world.
+For our project we specifically explored developing a platform for community management and e-commerce to take place. In addition, we also explored the idea of how to bring NFTs into the physical world.
 
 ### Introduction
 Artalaxies is a decentralized marketplace that focuses on providing anonomyous art designers a platform to produce and protect their NFT derivatives with the use of web 3.0 tech stack and e-commerce system. The platform allows for buyers to purchase physical products that have the nft content embedded, without the artist loosing ownership of the NFT itself.
@@ -36,7 +36,6 @@ Our platform tech stack:
 [https://testnets.artalaxies.ml/](https://testnets.artalaxies.ml/)
 
 
-
 ### Documentation
 
 [https://doc.artalaxies.ml/](https://doc.artalaxies.ml/)
@@ -46,27 +45,3 @@ Our platform tech stack:
 
 [https://testnets.artalaxies.ml/](https://testnets.artalaxies.ml/)
 
-### Team information
-
-Our team consisted of students of UC Berkeley, and a CEO of a scientific research organization, all with a background in computer science.
-
-[Jialin Li] Solution Architect, Smart Contract Developer, Project Management
-- Develop Smart contracts with Solidity programming language, deploy and test on Rinkeby Testnet.
-- Managed and design team workflow for Artalaxies Marketplace.
-
-[Rosalia Mendieta] Product Designer, UI Designer, Video Creator
-- Designed the user interface and flow for all of the pages
-- Created the animated background for the homepage
-- Created graphics for the prototype
-- Created demo video
-
-[Wenjie Ye] Fullstack developer
-- Implemented NFT detail page and NFT card, home page
-- Built serverless functions to authenticate user using metamask
-
-[Zihao Yang] Frontend Developer
-- Implemented merchant page, product detail
-- Implemented NFT detail page
-
-[Junyi Ye] Business Planner
-- Business Planning
